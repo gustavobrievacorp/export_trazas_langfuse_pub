@@ -1,0 +1,1001 @@
+id_tbl_conversaciones_conecta2,fecha_hora_inicio,fecha_hora_fin,correo,comentarios,motivo_experto
+1,"2025-08-23 16:28:07","2025-08-23 16:29:32",jppenaf@davivienda.com,NULL,NULL
+2,"2025-08-23 16:29:32","2025-08-23 16:31:13",jppenaf@davivienda.com,NULL,NULL
+3,"2025-08-23 16:35:12","2025-08-23 16:36:17",cesar.alvarezparra@davivienda.com,NULL,NULL
+4,"2025-08-23 16:37:06","2025-08-23 16:38:11",phdacost@davivienda.com,NULL,NULL
+5,"2025-08-23 16:36:18","2025-08-23 16:37:19",johan.rincon@davivienda.com,NULL,NULL
+6,"2025-08-23 16:42:29","2025-08-23 16:43:34",jppenaf@davivienda.com,NULL,NULL
+7,"2025-08-23 16:40:51","2025-08-23 19:02:12",werley.riano@davivienda.com,NULL,NULL
+8,"2025-08-23 16:50:57","2025-08-23 17:17:30",jppenaf@davivienda.com,NULL,NULL
+9,"2025-08-23 16:51:43","2025-08-23 16:54:26",jppenaf@davivienda.com,NULL,NULL
+10,"2025-08-23 17:37:24","2025-08-23 17:38:29",cesar.alvarezparra@davivienda.com,NULL,NULL
+11,"2025-08-23 17:43:32","2025-08-23 19:05:50",lizbeth.benavides@davivienda.com,NULL,NULL
+12,"2025-08-23 17:44:59","2025-08-23 17:46:05",lizbeth.benavides@davivienda.com,NULL,NULL
+13,"2025-08-23 17:48:23","2025-08-23 17:49:29",cesar.alvarezparra@davivienda.com,NULL,NULL
+14,"2025-08-23 18:04:53","2025-08-23 18:09:15",cesar.alvarezparra@davivienda.com,NULL,NULL
+15,"2025-08-23 18:09:15","2025-08-23 18:11:44",cesar.alvarezparra@davivienda.com,NULL,NULL
+16,"2025-08-23 18:32:32","2025-08-23 18:33:11",crluna@davivienda.com,NULL,NULL
+17,"2025-08-23 18:33:25","2025-08-23 18:34:21",crluna@davivienda.com,NULL,NULL
+18,"2025-08-23 18:34:51","2025-08-23 18:35:32",crluna@davivienda.com,NULL,NULL
+19,"2025-08-23 18:36:01","2025-08-23 18:36:42",crluna@davivienda.com,NULL,NULL
+20,"2025-08-23 18:36:44",NULL,crluna@davivienda.com,NULL,NULL
+21,"2025-08-23 18:37:12","2025-08-23 18:37:49",crluna@davivienda.com,NULL,NULL
+22,"2025-08-23 18:38:00","2025-08-23 18:38:52",crluna@davivienda.com,NULL,NULL
+23,"2025-08-23 18:39:34","2025-08-23 18:40:12",crluna@davivienda.com,NULL,NULL
+24,"2025-08-23 18:40:23",NULL,crluna@davivienda.com,NULL,NULL
+25,"2025-08-23 18:58:48","2025-08-23 19:01:07",wilmher.gacha@davivienda.com,NULL,NULL
+26,"2025-08-23 19:05:50","2025-08-23 19:06:56",lizbeth.benavides@davivienda.com,NULL,NULL
+27,"2025-08-23 20:15:49","2025-08-23 20:19:19",cesar.alvarezparra@davivienda.com,NULL,NULL
+28,"2025-08-23 20:18:58",NULL,agalbmen@davivienda.com,NULL,NULL
+29,"2025-08-23 20:28:04","2025-08-23 20:30:35",cesar.alvarezparra@davivienda.com,NULL,NULL
+30,"2025-08-23 20:30:35","2025-08-23 20:35:45",cesar.alvarezparra@davivienda.com,NULL,NULL
+31,"2025-08-23 20:29:15",NULL,johan.rincon@davivienda.com,NULL,NULL
+32,"2025-08-23 20:30:29","2025-08-23 20:32:34",johan.rincon@davivienda.com,NULL,NULL
+33,"2025-08-23 20:35:45","2025-08-23 20:38:20",cesar.alvarezparra@davivienda.com,NULL,NULL
+34,"2025-08-23 20:38:20","2025-08-23 20:40:25",cesar.alvarezparra@davivienda.com,NULL,NULL
+35,"2025-08-23 20:39:10","2025-08-23 20:41:15",johan.rincon@davivienda.com,NULL,NULL
+36,"2025-08-23 20:44:43","2025-08-23 20:46:45",jppenaf@davivienda.com,NULL,NULL
+37,"2025-08-23 20:48:09","2025-08-23 20:49:15",jppenaf@davivienda.com,NULL,NULL
+38,"2025-08-23 20:48:26","2025-08-23 20:50:54",lizbeth.benavides@davivienda.com,NULL,NULL
+39,"2025-08-23 20:57:00",NULL,margarci@davivienda.com,NULL,NULL
+40,"2025-08-23 20:59:30","2025-08-23 21:00:54",margarci@davivienda.com,NULL,NULL
+41,"2025-08-23 21:01:30",NULL,margarci@davivienda.com,NULL,NULL
+42,"2025-08-23 21:33:35","2025-08-23 21:35:40",cesar.alvarezparra@davivienda.com,NULL,NULL
+43,"2025-08-23 21:34:45",NULL,alacanor@davivienda.com,NULL,NULL
+44,"2025-08-23 21:43:43","2025-08-23 21:45:00",mayra.prada@davivienda.com,NULL,NULL
+45,"2025-08-23 21:45:08","2025-08-23 21:46:19",mayra.prada@davivienda.com,NULL,NULL
+46,"2025-08-23 22:15:29","2025-08-23 22:18:36",cesar.alvarezparra@davivienda.com,NULL,Usuario
+47,"2025-08-23 22:15:00",NULL,johan.rincon@davivienda.com,NULL,Usuario
+48,"2025-08-23 22:19:21","2025-08-23 22:23:34",hramirez@davivienda.com,NULL,Usuario
+49,"2025-08-23 22:18:22","2025-08-23 22:21:42",johan.rincon@davivienda.com,NULL,Usuario
+50,"2025-08-23 22:21:44","2025-08-23 22:24:49",cesar.alvarezparra@davivienda.com,NULL,Usuario
+51,"2025-08-23 22:25:27","2025-08-23 22:31:34",johan.rincon@davivienda.com,NULL,Usuario
+52,"2025-08-23 22:31:41","2025-08-23 22:35:22",johan.rincon@davivienda.com,NULL,Usuario
+53,"2025-08-23 22:41:02","2025-08-23 22:44:13",johan.rincon@davivienda.com,NULL,Usuario
+54,"2025-08-23 22:51:25","2025-08-23 22:53:54",nicolas.useche@davivienda.com,NULL,NULL
+55,"2025-08-23 23:01:03","2025-08-23 23:04:18",johan.rincon@davivienda.com,NULL,Usuario
+56,"2025-08-24 08:39:29",NULL,angee.moreno@davivienda.com,NULL,NULL
+57,"2025-08-24 09:02:21","2025-08-24 09:04:51",cesar.alvarezparra@davivienda.com,NULL,NULL
+58,"2025-08-24 09:13:16","2025-08-24 10:09:26",ginap.manrique@davivienda.com,NULL,NULL
+59,"2025-08-24 09:16:25","2025-08-24 09:28:20",jppenaf@davivienda.com,NULL,NULL
+60,"2025-08-24 09:30:51","2025-08-24 09:43:00",jppenaf@davivienda.com,NULL,Usuario
+61,"2025-08-24 09:33:06","2025-08-24 09:36:23",crluna@davivienda.com,NULL,IA
+62,"2025-08-24 09:34:45",NULL,crluna@davivienda.com,NULL,NULL
+63,"2025-08-24 09:35:07","2025-08-24 09:37:38",linafero@davivienda.com,NULL,NULL
+64,"2025-08-24 09:35:15","2025-08-24 09:37:31",pablo.hernandezambrano@davivienda.com,NULL,NULL
+65,"2025-08-24 09:37:20","2025-08-24 09:38:45",crluna@davivienda.com,NULL,NULL
+66,"2025-08-24 09:38:04","2025-08-24 09:41:33",pablo.hernandezambrano@davivienda.com,NULL,NULL
+67,"2025-08-24 09:38:05","2025-08-24 09:39:53",linafero@davivienda.com,NULL,NULL
+68,"2025-08-24 09:40:05","2025-08-24 09:41:57",crluna@davivienda.com,NULL,NULL
+69,"2025-08-24 09:40:48","2025-08-24 09:41:08",linafero@davivienda.com,NULL,NULL
+70,"2025-08-24 09:41:36","2025-08-24 09:48:48",pablo.hernandezambrano@davivienda.com,NULL,NULL
+71,"2025-08-24 09:42:53","2025-08-24 09:47:44",linafero@davivienda.com,NULL,NULL
+72,"2025-08-24 09:42:57","2025-08-24 09:44:09",crluna@davivienda.com,NULL,NULL
+73,"2025-08-24 09:43:17","2025-08-24 09:57:57",jppenaf@davivienda.com,NULL,Usuario
+74,"2025-08-24 09:44:21","2025-08-24 09:47:05",crluna@davivienda.com,NULL,NULL
+75,"2025-08-24 09:47:57","2025-08-24 09:51:58",linafero@davivienda.com,NULL,NULL
+76,"2025-08-24 09:48:00","2025-08-24 09:50:46",crluna@davivienda.com,NULL,NULL
+77,"2025-08-24 09:48:48","2025-08-24 09:52:27",pablo.hernandezambrano@davivienda.com,NULL,IA
+78,"2025-08-24 09:51:28","2025-08-24 09:52:20",crluna@davivienda.com,NULL,NULL
+79,"2025-08-24 09:52:28","2025-08-24 09:53:57",linafero@davivienda.com,NULL,NULL
+80,"2025-08-24 09:53:09","2025-08-24 09:53:41",crluna@davivienda.com,NULL,NULL
+81,"2025-08-24 09:53:33","2025-08-24 09:56:34",pablo.hernandezambrano@davivienda.com,NULL,NULL
+82,"2025-08-24 09:53:58","2025-08-24 09:55:21",crluna@davivienda.com,NULL,NULL
+83,"2025-08-24 09:54:11","2025-08-24 10:00:31",linafero@davivienda.com,NULL,NULL
+84,"2025-08-24 09:55:44","2025-08-24 10:01:10",crluna@davivienda.com,NULL,NULL
+85,"2025-08-24 09:57:11","2025-08-24 10:00:44",pablo.hernandezambrano@davivienda.com,NULL,NULL
+86,"2025-08-24 10:01:00","2025-08-24 10:06:33",pablo.hernandezambrano@davivienda.com,NULL,NULL
+87,"2025-08-24 10:01:23","2025-08-24 10:03:27",linafero@davivienda.com,NULL,NULL
+88,"2025-08-24 10:01:23","2025-08-24 10:05:05",crluna@davivienda.com,NULL,Usuario
+89,"2025-08-24 10:03:40","2025-08-24 10:13:08",jppenaf@davivienda.com,NULL,NULL
+90,"2025-08-24 10:04:02","2025-08-24 10:05:02",linafero@davivienda.com,NULL,NULL
+91,"2025-08-24 10:05:36","2025-08-24 10:07:42",crluna@davivienda.com,NULL,NULL
+92,"2025-08-24 10:06:01","2025-08-24 10:19:01",afcamacho@davivienda.com,NULL,NULL
+93,"2025-08-24 10:06:46","2025-08-24 10:07:00",linafero@davivienda.com,NULL,NULL
+94,"2025-08-24 10:07:06","2025-08-24 10:07:51",linafero@davivienda.com,NULL,NULL
+95,"2025-08-24 10:07:09","2025-08-24 10:12:13",pablo.hernandezambrano@davivienda.com,NULL,IA
+96,"2025-08-24 10:07:58","2025-08-24 10:09:13",linafero@davivienda.com,NULL,NULL
+97,"2025-08-24 10:08:05","2025-08-24 10:09:19",crluna@davivienda.com,NULL,NULL
+98,"2025-08-24 10:09:26","2025-08-24 10:31:32",ginap.manrique@davivienda.com,NULL,NULL
+99,"2025-08-24 10:09:34","2025-08-24 10:09:58",linafero@davivienda.com,NULL,NULL
+100,"2025-08-24 10:10:01","2025-08-24 10:11:08",linafero@davivienda.com,NULL,NULL
+101,"2025-08-24 10:10:08","2025-08-24 10:13:11",crluna@davivienda.com,NULL,NULL
+102,"2025-08-24 10:11:09","2025-08-24 10:16:14",linafero@davivienda.com,NULL,NULL
+103,"2025-08-24 10:12:34","2025-08-24 10:14:45",pablo.hernandezambrano@davivienda.com,NULL,NULL
+104,"2025-08-24 10:13:28","2025-08-24 10:15:35",crluna@davivienda.com,NULL,NULL
+105,"2025-08-24 10:14:58","2025-08-24 10:21:31",jppenaf@davivienda.com,NULL,Usuario
+106,"2025-08-24 10:15:29","2025-08-24 10:16:53",pablo.hernandezambrano@davivienda.com,NULL,NULL
+107,"2025-08-24 10:15:41","2025-08-24 10:15:53",crluna@davivienda.com,NULL,NULL
+108,"2025-08-24 10:16:08","2025-08-24 10:20:26",crluna@davivienda.com,NULL,Usuario
+109,"2025-08-24 10:16:14","2025-08-24 10:22:27",linafero@davivienda.com,NULL,NULL
+110,"2025-08-24 10:17:18","2025-08-24 10:21:52",hbarrera@davivienda.com,NULL,IA
+111,"2025-08-24 10:17:36","2025-08-24 10:19:09",pablo.hernandezambrano@davivienda.com,NULL,NULL
+112,"2025-08-24 10:17:54","2025-08-24 10:27:56",almartin@davivienda.com,NULL,NULL
+113,"2025-08-24 10:19:17","2025-08-24 10:27:49",afcamacho@davivienda.com,NULL,NULL
+114,"2025-08-24 10:19:28","2025-08-24 10:21:25",pablo.hernandezambrano@davivienda.com,NULL,NULL
+115,"2025-08-24 10:21:57","2025-08-24 10:22:47",pablo.hernandezambrano@davivienda.com,NULL,NULL
+116,"2025-08-24 10:22:55","2025-08-24 10:40:36",crluna@davivienda.com,NULL,Usuario
+117,"2025-08-24 10:23:03","2025-08-24 10:26:51",linafero@davivienda.com,NULL,NULL
+118,"2025-08-24 10:24:03","2025-08-24 10:26:05",hbarrera@davivienda.com,NULL,NULL
+119,"2025-08-24 10:24:42","2025-08-24 10:26:52",jppenaf@davivienda.com,NULL,NULL
+120,"2025-08-24 10:26:18",NULL,dayaotal@davivienda.com,NULL,NULL
+121,"2025-08-24 10:27:03","2025-08-24 10:35:24",pablo.hernandezambrano@davivienda.com,NULL,NULL
+122,"2025-08-24 10:27:29","2025-08-24 10:29:42",linafero@davivienda.com,NULL,NULL
+123,"2025-08-24 10:27:59","2025-08-24 10:30:39",almartin@davivienda.com,NULL,NULL
+124,"2025-08-24 10:28:24","2025-08-24 10:44:55",jppenaf@davivienda.com,NULL,Usuario
+125,"2025-08-24 10:28:27","2025-08-24 10:29:44",afcamacho@davivienda.com,NULL,NULL
+126,"2025-08-24 10:30:22","2025-08-24 10:57:54",afcamacho@davivienda.com,NULL,IA
+127,"2025-08-24 10:30:52","2025-08-24 10:32:59",linafero@davivienda.com,NULL,NULL
+128,"2025-08-24 10:31:32","2025-08-24 10:41:52",ginap.manrique@davivienda.com,NULL,NULL
+129,"2025-08-24 10:33:09","2025-08-24 10:35:46",almartin@davivienda.com,NULL,NULL
+130,"2025-08-24 10:33:18","2025-08-24 10:38:32",linafero@davivienda.com,NULL,NULL
+131,"2025-08-24 10:35:32","2025-08-24 10:39:55",pablo.hernandezambrano@davivienda.com,NULL,NULL
+132,"2025-08-24 10:36:07","2025-08-24 10:39:42",almartin@davivienda.com,NULL,NULL
+133,"2025-08-24 10:39:11","2025-08-24 10:39:51",linafero@davivienda.com,NULL,NULL
+134,"2025-08-24 10:40:02","2025-08-24 10:46:33",almartin@davivienda.com,NULL,NULL
+135,"2025-08-24 10:40:13","2025-08-24 10:44:16",pablo.hernandezambrano@davivienda.com,NULL,NULL
+136,"2025-08-24 10:40:33","2025-08-24 10:44:23",linafero@davivienda.com,NULL,NULL
+137,"2025-08-24 10:41:33","2025-08-24 10:46:35",crluna@davivienda.com,NULL,NULL
+138,"2025-08-24 10:44:36","2025-08-24 10:46:32",linafero@davivienda.com,NULL,NULL
+139,"2025-08-24 10:44:52","2025-08-24 10:46:55",pablo.hernandezambrano@davivienda.com,NULL,NULL
+140,"2025-08-24 10:46:46","2025-08-24 10:49:30",almartin@davivienda.com,NULL,NULL
+141,"2025-08-24 10:47:05","2025-08-24 10:55:49",crluna@davivienda.com,NULL,NULL
+142,"2025-08-24 10:47:12","2025-08-24 10:50:04",pablo.hernandezambrano@davivienda.com,NULL,NULL
+143,"2025-08-24 10:49:44","2025-08-24 10:51:32",almartin@davivienda.com,NULL,NULL
+144,"2025-08-24 10:51:39","2025-08-24 11:00:29",almartin@davivienda.com,NULL,NULL
+145,"2025-08-24 10:54:21","2025-08-24 10:55:49",pablo.hernandezambrano@davivienda.com,NULL,NULL
+146,"2025-08-24 10:56:05","2025-08-24 10:58:20",pablo.hernandezambrano@davivienda.com,NULL,NULL
+147,"2025-08-24 10:58:44","2025-08-24 11:00:41",pablo.hernandezambrano@davivienda.com,NULL,NULL
+148,"2025-08-24 10:58:46","2025-08-24 11:01:36",crluna@davivienda.com,NULL,NULL
+149,"2025-08-24 11:00:49","2025-08-24 11:09:30",almartin@davivienda.com,NULL,NULL
+150,"2025-08-24 11:01:11","2025-08-24 11:02:26",pablo.hernandezambrano@davivienda.com,NULL,NULL
+151,"2025-08-24 11:02:40","2025-08-24 11:04:20",pablo.hernandezambrano@davivienda.com,NULL,NULL
+152,"2025-08-24 11:02:51","2025-08-24 11:04:49",linafero@davivienda.com,NULL,NULL
+153,"2025-08-24 11:04:37","2025-08-24 11:06:59",pablo.hernandezambrano@davivienda.com,NULL,NULL
+154,"2025-08-24 11:05:14","2025-08-24 11:08:16",linafero@davivienda.com,NULL,NULL
+155,"2025-08-24 11:05:28","2025-08-24 11:11:09",crluna@davivienda.com,NULL,IA
+156,"2025-08-24 11:06:26",NULL,jppenaf@davivienda.com,NULL,"Usuario + IA"
+157,"2025-08-24 11:07:06","2025-08-24 11:09:01",pablo.hernandezambrano@davivienda.com,NULL,NULL
+158,"2025-08-24 11:07:47","2025-08-24 11:12:52",sandram.pinzon@davivienda.com,NULL,NULL
+159,"2025-08-24 11:08:41","2025-08-24 11:12:13",linafero@davivienda.com,NULL,NULL
+160,"2025-08-24 11:09:05","2025-08-24 11:10:13",pablo.hernandezambrano@davivienda.com,NULL,NULL
+161,"2025-08-24 11:09:20","2025-08-24 11:16:32",jppenaf@davivienda.com,NULL,IA
+162,"2025-08-24 11:09:32","2025-08-24 11:10:38",crluna@davivienda.com,NULL,NULL
+163,"2025-08-24 11:10:30","2025-08-24 11:15:10",pablo.hernandezambrano@davivienda.com,NULL,IA
+164,"2025-08-24 11:10:59",NULL,crluna@davivienda.com,NULL,NULL
+165,"2025-08-24 11:11:19","2025-08-24 11:12:43",afcamacho@davivienda.com,NULL,NULL
+166,"2025-08-24 11:11:23","2025-08-24 11:15:33",crluna@davivienda.com,NULL,IA
+167,"2025-08-24 11:12:20","2025-08-24 11:16:36",linafero@davivienda.com,NULL,NULL
+168,"2025-08-24 11:13:41","2025-08-24 11:22:25",afcamacho@davivienda.com,NULL,NULL
+169,"2025-08-24 11:14:24","2025-08-24 11:16:46",almartin@davivienda.com,NULL,NULL
+170,"2025-08-24 11:15:55",NULL,crluna@davivienda.com,NULL,NULL
+171,"2025-08-24 11:15:59","2025-08-24 11:32:44",slcorred@davivienda.com,NULL,NULL
+172,"2025-08-24 11:17:06","2025-08-24 11:19:06",almartin@davivienda.com,NULL,NULL
+173,"2025-08-24 11:17:30","2025-08-24 11:22:49",linafero@davivienda.com,NULL,NULL
+174,"2025-08-24 11:18:44","2025-08-24 11:20:44",crluna@davivienda.com,NULL,NULL
+175,"2025-08-24 11:19:13","2025-08-24 11:23:57",pablo.hernandezambrano@davivienda.com,NULL,IA
+176,"2025-08-24 11:19:31","2025-08-24 11:21:29",almartin@davivienda.com,NULL,NULL
+177,"2025-08-24 11:21:06","2025-08-24 11:22:51",crluna@davivienda.com,NULL,NULL
+178,"2025-08-24 11:21:41","2025-08-24 11:23:59",almartin@davivienda.com,NULL,NULL
+179,"2025-08-24 11:22:52","2025-08-24 11:34:11",afcamacho@davivienda.com,NULL,NULL
+180,"2025-08-24 11:23:04","2025-08-24 11:24:03",crluna@davivienda.com,NULL,NULL
+181,"2025-08-24 11:23:08","2025-08-24 11:24:11",linafero@davivienda.com,NULL,NULL
+182,"2025-08-24 11:23:37",NULL,pablo.hernandezambrano@davivienda.com,NULL,NULL
+183,"2025-08-24 11:24:07","2025-08-24 11:24:59",pablo.hernandezambrano@davivienda.com,NULL,NULL
+184,"2025-08-24 11:24:16","2025-08-24 11:27:43",almartin@davivienda.com,NULL,NULL
+185,"2025-08-24 11:24:31","2025-08-24 11:27:53",crluna@davivienda.com,NULL,NULL
+186,"2025-08-24 11:24:56","2025-08-24 11:27:08",linafero@davivienda.com,NULL,NULL
+187,"2025-08-24 11:25:05","2025-08-24 11:34:12",hbarrera@davivienda.com,NULL,NULL
+188,"2025-08-24 11:25:22","2025-08-24 11:26:54",pablo.hernandezambrano@davivienda.com,NULL,NULL
+189,"2025-08-24 11:26:58","2025-08-24 11:29:35",pablo.hernandezambrano@davivienda.com,NULL,NULL
+190,"2025-08-24 11:27:30","2025-08-24 11:33:02",linafero@davivienda.com,NULL,NULL
+191,"2025-08-24 11:28:22",NULL,crluna@davivienda.com,NULL,NULL
+192,"2025-08-24 11:30:37","2025-08-24 11:33:14",pablo.hernandezambrano@davivienda.com,NULL,NULL
+193,"2025-08-24 11:31:59","2025-08-24 11:32:31",crluna@davivienda.com,NULL,NULL
+194,"2025-08-24 11:32:21",NULL,lumigomez@davivienda.com,NULL,NULL
+195,"2025-08-24 11:32:44","2025-08-24 11:38:39",slcorred@davivienda.com,NULL,NULL
+196,"2025-08-24 11:32:53",NULL,crluna@davivienda.com,NULL,NULL
+197,"2025-08-24 11:33:49","2025-08-24 11:37:51",linafero@davivienda.com,NULL,NULL
+198,"2025-08-24 11:34:00",NULL,jppenaf@davivienda.com,NULL,IA
+199,"2025-08-24 11:34:17","2025-08-24 12:18:17",hbarrera@davivienda.com,NULL,NULL
+200,"2025-08-24 11:35:43","2025-08-24 11:39:03",pablo.hernandezambrano@davivienda.com,NULL,IA
+201,"2025-08-24 11:36:10",NULL,crluna@davivienda.com,NULL,NULL
+202,"2025-08-24 11:36:27","2025-08-24 11:37:41",almartin@davivienda.com,NULL,NULL
+203,"2025-08-24 11:37:15","2025-08-24 11:38:43",crluna@davivienda.com,NULL,NULL
+204,"2025-08-24 11:37:24","2025-08-24 11:54:07",jppenaf@davivienda.com,NULL,Usuario
+205,"2025-08-24 11:37:58","2025-08-24 11:39:41",almartin@davivienda.com,NULL,NULL
+206,"2025-08-24 11:38:24","2025-08-24 11:57:41",linafero@davivienda.com,NULL,NULL
+207,"2025-08-24 11:39:03","2025-08-24 11:55:39",crluna@davivienda.com,NULL,NULL
+208,"2025-08-24 11:40:08","2025-08-24 11:41:23",almartin@davivienda.com,NULL,NULL
+209,"2025-08-24 11:45:05","2025-08-24 11:47:38",almartin@davivienda.com,NULL,NULL
+210,"2025-08-24 11:46:22","2025-08-24 12:08:13",afcamacho@davivienda.com,NULL,NULL
+211,"2025-08-24 11:47:55","2025-08-24 11:50:56",almartin@davivienda.com,NULL,NULL
+212,"2025-08-24 11:49:05","2025-08-24 11:51:07",pablo.hernandezambrano@davivienda.com,NULL,NULL
+213,"2025-08-24 11:51:37","2025-08-24 11:55:04",almartin@davivienda.com,NULL,NULL
+214,"2025-08-24 11:54:34","2025-08-24 12:00:21",pablo.hernandezambrano@davivienda.com,NULL,IA
+215,"2025-08-24 11:55:09","2025-08-24 12:00:45",almartin@davivienda.com,NULL,NULL
+216,"2025-08-24 11:55:39",NULL,jppenaf@davivienda.com,NULL,Usuario
+217,"2025-08-24 11:55:47","2025-08-24 11:58:10",crluna@davivienda.com,NULL,NULL
+218,"2025-08-24 11:57:54","2025-08-24 12:05:12",linafero@davivienda.com,NULL,NULL
+219,"2025-08-24 11:58:24","2025-08-24 12:04:26",jppenaf@davivienda.com,NULL,Usuario
+220,"2025-08-24 12:01:56","2025-08-24 12:08:24",pablo.hernandezambrano@davivienda.com,NULL,NULL
+221,"2025-08-24 12:04:37","2025-08-24 12:40:23",jppenaf@davivienda.com,NULL,Usuario
+222,"2025-08-24 12:05:33","2025-08-24 12:10:47",linafero@davivienda.com,NULL,IA
+223,"2025-08-24 12:08:13","2025-08-24 12:09:00",afcamacho@davivienda.com,NULL,NULL
+224,"2025-08-24 12:08:44","2025-08-24 12:13:32",pablo.hernandezambrano@davivienda.com,NULL,NULL
+225,"2025-08-24 12:11:41","2025-08-24 12:15:44",linafero@davivienda.com,NULL,NULL
+226,"2025-08-24 12:13:24","2025-08-24 12:26:38",afcamacho@davivienda.com,NULL,NULL
+227,"2025-08-24 12:13:48","2025-08-24 12:15:15",pablo.hernandezambrano@davivienda.com,NULL,NULL
+228,"2025-08-24 12:14:19",NULL,crluna@davivienda.com,NULL,NULL
+229,"2025-08-24 12:14:56","2025-08-24 12:16:02",crluna@davivienda.com,NULL,NULL
+230,"2025-08-24 12:15:32","2025-08-24 12:18:08",pablo.hernandezambrano@davivienda.com,NULL,NULL
+231,"2025-08-24 12:16:12","2025-08-24 12:23:36",linafero@davivienda.com,NULL,NULL
+232,"2025-08-24 12:16:20","2025-08-24 12:18:16",crluna@davivienda.com,NULL,NULL
+233,"2025-08-24 12:17:25","2025-08-24 12:23:30",sharon.casas@davivienda.com,NULL,NULL
+234,"2025-08-24 12:17:43","2025-08-24 12:19:11",isarango@davivienda.com,NULL,NULL
+235,"2025-08-24 12:18:22","2025-08-24 12:19:50",hbarrera@davivienda.com,NULL,NULL
+236,"2025-08-24 12:18:26",NULL,crluna@davivienda.com,NULL,NULL
+237,"2025-08-24 12:18:39","2025-08-24 12:22:50",pablo.hernandezambrano@davivienda.com,NULL,NULL
+238,"2025-08-24 12:20:12","2025-08-24 12:21:03",hbarrera@davivienda.com,NULL,NULL
+239,"2025-08-24 12:20:56",NULL,crluna@davivienda.com,NULL,NULL
+240,"2025-08-24 12:21:10","2025-08-24 12:26:55",hbarrera@davivienda.com,NULL,NULL
+241,"2025-08-24 12:23:28",NULL,pablo.hernandezambrano@davivienda.com,NULL,NULL
+242,"2025-08-24 12:23:52","2025-08-24 12:29:27",linafero@davivienda.com,NULL,NULL
+243,"2025-08-24 12:41:29","2025-08-25 07:35:05",jppenaf@davivienda.com,NULL,NULL
+244,"2025-08-24 13:23:05","2025-08-24 13:40:02",jeimmy.roncancio@davivienda.com,NULL,NULL
+245,"2025-08-24 14:06:59",NULL,daalopez@davivienda.com,NULL,NULL
+246,"2025-08-24 15:06:42","2025-08-24 15:22:39",fiolano@davivienda.com,NULL,NULL
+247,"2025-08-24 15:23:27","2025-08-24 15:31:58",fiolano@davivienda.com,NULL,NULL
+248,"2025-08-24 15:31:58","2025-08-24 15:32:50",fiolano@davivienda.com,NULL,NULL
+249,"2025-08-24 15:33:21","2025-08-24 15:39:21",fiolano@davivienda.com,NULL,NULL
+250,"2025-08-24 16:28:19","2025-08-24 16:34:27",claudia.rios@davivienda.com,NULL,NULL
+251,"2025-08-24 17:02:10","2025-08-24 17:08:56",amupegui@davivienda.com,NULL,NULL
+252,"2025-08-24 17:53:15",NULL,juan.garcia@davivienda.com,NULL,NULL
+253,"2025-08-24 19:45:16","2025-08-24 19:51:23",fiolano@davivienda.com,NULL,NULL
+254,"2025-08-24 19:52:13","2025-08-24 19:57:59",pdzapata@davivienda.com,NULL,NULL
+255,"2025-08-24 19:53:07",NULL,fiolano@davivienda.com,NULL,NULL
+256,"2025-08-24 20:13:08",NULL,yenny.parrado@davivienda.com,NULL,NULL
+257,"2025-08-24 21:33:28",NULL,angiel.arenashuerfano@davivienda.com,NULL,NULL
+258,"2025-08-25 06:55:15",NULL,danna.rozo@davivienda.com,NULL,IA
+259,"2025-08-25 06:56:41","2025-08-25 08:02:04",sharon.casas@davivienda.com,NULL,NULL
+260,"2025-08-25 07:15:02","2025-08-25 07:19:11",arsuarez@davivienda.com,NULL,NULL
+261,"2025-08-25 07:17:33","2025-08-25 07:28:35",sandram.pinzon@davivienda.com,NULL,NULL
+262,"2025-08-25 07:28:35","2025-08-25 09:41:31",sandram.pinzon@davivienda.com,NULL,NULL
+263,"2025-08-25 07:40:26","2025-08-25 07:46:18",lina.restrepo@davivienda.com,NULL,NULL
+264,"2025-08-25 07:41:13","2025-08-25 07:47:34",jezapata@davivienda.com,NULL,NULL
+265,"2025-08-25 07:42:35","2025-08-25 07:42:54",anortiac@davivienda.com,NULL,NULL
+266,"2025-08-25 07:43:29",NULL,anortiac@davivienda.com,NULL,IA
+267,"2025-08-25 07:45:04",NULL,anortiac@davivienda.com,NULL,NULL
+268,"2025-08-25 07:47:56",NULL,lina.restrepo@davivienda.com,NULL,NULL
+269,"2025-08-25 07:52:53","2025-08-25 07:54:13",camila.santamaria@davivienda.com,NULL,NULL
+270,"2025-08-25 07:54:20","2025-08-25 07:57:05",hbarrera@davivienda.com,NULL,NULL
+271,"2025-08-25 07:54:50","2025-08-25 08:00:02",jppenaf@davivienda.com,NULL,NULL
+272,"2025-08-25 07:55:37","2025-08-25 07:57:17",camila.santamaria@davivienda.com,NULL,NULL
+273,"2025-08-25 07:57:29","2025-08-25 08:03:40",camila.santamaria@davivienda.com,NULL,IA
+274,"2025-08-25 08:00:15","2025-08-25 08:06:09",jppenaf@davivienda.com,NULL,IA
+275,"2025-08-25 08:01:20",NULL,angee.moreno@davivienda.com,NULL,NULL
+276,"2025-08-25 08:02:04","2025-08-25 08:09:08",sharon.casas@davivienda.com,NULL,NULL
+277,"2025-08-25 08:02:14","2025-08-25 09:15:23",gabriel.gomez@davivienda.com,NULL,NULL
+278,"2025-08-25 08:03:13",NULL,camila.santamaria@davivienda.com,NULL,NULL
+279,"2025-08-25 08:05:25",NULL,eider.moreno@davivienda.com,NULL,NULL
+280,"2025-08-25 08:06:25",NULL,jppenaf@davivienda.com,NULL,Usuario
+281,"2025-08-25 08:07:34",NULL,angee.moreno@davivienda.com,NULL,NULL
+282,"2025-08-25 08:08:22","2025-08-25 08:25:31",lpospina@davivienda.com,NULL,NULL
+283,"2025-08-25 08:09:47",NULL,jppenaf@davivienda.com,NULL,Usuario
+284,"2025-08-25 08:09:57","2025-08-25 08:10:18",sirytafu@davivienda.com,NULL,NULL
+285,"2025-08-25 08:10:35",NULL,limrinco@davivienda.com,NULL,NULL
+286,"2025-08-25 08:12:09",NULL,davila@davivienda.com,NULL,NULL
+287,"2025-08-25 08:15:25",NULL,crmunoz@davivienda.com,NULL,NULL
+288,"2025-08-25 08:15:36","2025-08-25 13:19:42",jueperez@davivienda.com,NULL,NULL
+289,"2025-08-25 08:16:05",NULL,wendy.aguirre@davivienda.com,NULL,NULL
+290,"2025-08-25 08:16:53","2025-08-25 08:21:59",kelly.sanmartin@davivienda.com,NULL,NULL
+291,"2025-08-25 08:17:04","2025-08-25 09:42:28",jainer.blanco@davivienda.com,NULL,NULL
+292,"2025-08-25 08:17:21","2025-08-25 08:28:59",jppenaf@davivienda.com,NULL,NULL
+293,"2025-08-25 08:17:42","2025-08-25 10:27:10",angee.moreno@davivienda.com,NULL,NULL
+294,"2025-08-25 08:18:40","2025-08-25 08:24:48",pcuribe@davivienda.com,NULL,NULL
+295,"2025-08-25 08:18:49",NULL,camila.santamaria@davivienda.com,NULL,NULL
+296,"2025-08-25 08:20:35","2025-08-25 08:20:48",natalia.garciam@davivienda.com,NULL,NULL
+297,"2025-08-25 08:25:04","2025-08-25 08:27:16",angie.otalora@davivienda.com,NULL,IA
+298,"2025-08-25 08:25:31","2025-08-25 10:41:18",lpospina@davivienda.com,NULL,NULL
+299,"2025-08-25 08:25:37",NULL,ikcordob@davivienda.com,NULL,NULL
+300,"2025-08-25 08:27:44","2025-08-25 08:32:49",maloryn.garcia@davivienda.com,NULL,NULL
+301,"2025-08-25 08:27:32","2025-08-25 10:58:24",angie.otalora@davivienda.com,NULL,NULL
+302,"2025-08-25 08:28:25","2025-08-25 10:39:42",jessica.arevalo@davivienda.com,NULL,NULL
+303,"2025-08-25 08:29:06","2025-08-25 08:45:21",nmospin@davivienda.com,NULL,IA
+304,"2025-08-25 08:39:10","2025-08-25 08:39:32",duvan.garcia@davivienda.com,NULL,NULL
+305,"2025-08-25 08:30:55","2025-08-25 08:36:30",limrinco@davivienda.com,NULL,NULL
+306,"2025-08-25 08:34:23",NULL,sandra.carrascal@davivienda.com,NULL,NULL
+307,"2025-08-25 08:34:53",NULL,stepfcor@davivienda.com,NULL,Usuario
+308,"2025-08-25 08:35:09","2025-08-25 08:35:53",andres.gomezorduy@davivienda.com,NULL,NULL
+309,"2025-08-25 08:35:19","2025-08-25 08:40:59",sandra.carrascal@davivienda.com,NULL,NULL
+310,"2025-08-25 08:35:44",NULL,wilson.valencia@davivienda.com,NULL,NULL
+311,"2025-08-25 08:36:19","2025-08-25 08:42:41",andres.gomezorduy@davivienda.com,NULL,NULL
+312,"2025-08-25 08:36:50","2025-08-25 09:29:18",wilson.valencia@davivienda.com,NULL,NULL
+313,"2025-08-25 08:38:35","2025-08-25 08:39:00",yaagumej@davivienda.com,NULL,NULL
+314,"2025-08-25 08:37:00","2025-08-25 08:43:58",paula.arboleda@davivienda.com,NULL,Usuario
+315,"2025-08-25 08:38:14","2025-08-25 09:13:04",stepfcor@davivienda.com,NULL,Usuario
+316,"2025-08-25 08:39:21","2025-08-25 08:42:46",diana.estrada@davivienda.com,NULL,IA
+317,"2025-08-25 08:44:29","2025-08-25 08:52:05",dianam.caitamejia@davivienda.com,NULL,NULL
+318,"2025-08-25 08:46:12","2025-08-25 08:52:03",lilopezm@davivienda.com,NULL,NULL
+319,"2025-08-25 08:53:51","2025-08-25 09:00:22",naarcila@davivienda.com,NULL,NULL
+320,"2025-08-25 08:54:55","2025-08-25 09:03:02",liliana.hoyos@davivienda.com,NULL,NULL
+321,"2025-08-25 08:57:13","2025-08-25 09:03:08",yaagumej@davivienda.com,NULL,NULL
+322,"2025-08-25 08:56:38","2025-08-25 09:01:29",michael.avila@davivienda.com,NULL,NULL
+323,"2025-08-25 08:56:56",NULL,laura.villegas@davivienda.com,NULL,NULL
+324,"2025-08-25 08:57:22","2025-08-25 09:51:41",laura.villegas@davivienda.com,NULL,IA
+325,"2025-08-25 08:57:45",NULL,evelyn.zuluaga@davivienda.com,NULL,NULL
+326,"2025-08-25 08:58:17","2025-08-25 09:09:05",evelyn.zuluaga@davivienda.com,NULL,NULL
+327,"2025-08-25 08:58:58","2025-08-25 09:04:08",debedoya@davivienda.com,NULL,Usuario
+328,"2025-08-25 09:00:22",NULL,jefersson.ramirez@davivienda.com,NULL,NULL
+329,"2025-08-25 09:01:07","2025-08-25 09:17:10",mcmonsalve@davivienda.com,NULL,NULL
+330,"2025-08-25 09:00:44",NULL,hcohecha@davivienda.com,NULL,NULL
+331,"2025-08-25 09:01:42",NULL,anflorez@davivienda.com,NULL,NULL
+332,"2025-08-25 09:02:30","2025-08-25 09:24:38",fiolano@davivienda.com,NULL,NULL
+333,"2025-08-25 09:02:43","2025-08-25 09:10:28",anflorez@davivienda.com,NULL,NULL
+334,"2025-08-25 09:03:51",NULL,juamejia@davivienda.com,NULL,NULL
+335,"2025-08-25 09:04:14",NULL,debedoya@davivienda.com,NULL,"Usuario + IA"
+336,"2025-08-25 09:04:16","2025-08-25 09:09:58",roxana.ayala@davivienda.com,NULL,NULL
+337,"2025-08-25 09:04:20",NULL,escalald@davivienda.com,NULL,NULL
+338,"2025-08-25 09:04:34","2025-08-25 09:10:14",andres.gomezorduy@davivienda.com,NULL,NULL
+339,"2025-08-25 09:05:17",NULL,escalald@davivienda.com,NULL,NULL
+340,"2025-08-25 09:05:27","2025-08-25 09:11:33",angellari@davivienda.com,NULL,NULL
+341,"2025-08-25 09:05:41","2025-08-25 09:56:31",escalald@davivienda.com,NULL,NULL
+342,"2025-08-25 09:07:12","2025-08-25 09:08:15",angellari@davivienda.com,NULL,NULL
+343,"2025-08-25 09:10:08","2025-08-25 09:52:44",sxlopez@davivienda.com,NULL,Usuario
+344,"2025-08-25 09:11:33","2025-08-25 09:18:32",carlos.riano@davivienda.com,NULL,NULL
+345,"2025-08-25 09:12:16","2025-08-25 09:18:23",juan.ciro@davivienda.com,NULL,NULL
+346,"2025-08-25 09:13:14","2025-08-25 10:39:01",stepfcor@davivienda.com,NULL,Usuario
+347,"2025-08-25 09:13:28","2025-08-25 09:24:27",ofhernandez@davivienda.com,NULL,NULL
+348,"2025-08-25 09:13:29",NULL,andres.lopez@davivienda.com,NULL,NULL
+349,"2025-08-25 09:14:49","2025-08-25 09:20:34",john.betancur@davivienda.com,NULL,NULL
+350,"2025-08-25 09:14:50","2025-08-25 09:15:31",arsuarez@davivienda.com,NULL,NULL
+351,"2025-08-25 09:15:16","2025-08-25 09:27:26",enriquea@davivienda.com,NULL,Usuario
+352,"2025-08-25 09:15:23","2025-08-25 09:22:17",gabriel.gomez@davivienda.com,NULL,IA
+353,"2025-08-25 09:15:36","2025-08-25 09:21:40",arsuarez@davivienda.com,NULL,NULL
+354,"2025-08-25 09:16:25",NULL,oosorio@davivienda.com,NULL,NULL
+355,"2025-08-25 09:17:39",NULL,lchavera@davivienda.com,NULL,NULL
+356,"2025-08-25 09:17:46","2025-08-25 09:19:24",bjgarcia@davivienda.com,NULL,NULL
+357,"2025-08-25 09:17:58","2025-08-25 09:18:29",visernag@davivienda.com,NULL,NULL
+358,"2025-08-25 09:18:35",NULL,clara.valencia@davivienda.com,NULL,NULL
+359,"2025-08-25 09:18:37","2025-08-25 09:25:28",leidy.durango@davivienda.com,NULL,NULL
+360,"2025-08-25 09:18:48",NULL,jucasala@davivienda.com,NULL,NULL
+361,"2025-08-25 09:19:14","2025-08-25 15:51:17",ciarango@davivienda.com,NULL,NULL
+362,"2025-08-25 09:19:51","2025-08-25 09:43:28",iquiceno@davivienda.com,NULL,NULL
+363,"2025-08-25 09:20:03","2025-08-25 09:28:12",bjgarcia@davivienda.com,NULL,NULL
+364,"2025-08-25 09:20:37","2025-08-25 11:47:11",mpherrera@davivienda.com,NULL,NULL
+365,"2025-08-25 09:21:20","2025-08-25 09:26:25",jaguilar@davivienda.com,NULL,NULL
+366,"2025-08-25 09:21:34",NULL,emarbela@davivienda.com,NULL,NULL
+367,"2025-08-25 09:21:42","2025-08-25 09:55:34",lilopezm@davivienda.com,NULL,NULL
+368,"2025-08-25 09:22:17",NULL,maria.barrios@davivienda.com,NULL,NULL
+369,"2025-08-25 09:23:21",NULL,eider.moreno@davivienda.com,NULL,NULL
+370,"2025-08-25 09:23:36","2025-08-25 09:29:02",lauaceve@davivienda.com,NULL,NULL
+371,"2025-08-25 09:24:10",NULL,eider.moreno@davivienda.com,NULL,NULL
+372,"2025-08-25 09:24:38",NULL,ofhernandez@davivienda.com,NULL,NULL
+373,"2025-08-25 09:24:38",NULL,fiolano@davivienda.com,NULL,NULL
+374,"2025-08-25 09:25:12","2025-08-25 10:28:37",bjgarcia@davivienda.com,NULL,NULL
+375,"2025-08-25 09:27:26","2025-08-25 09:33:21",enriquea@davivienda.com,NULL,NULL
+376,"2025-08-25 09:27:33","2025-08-25 09:32:38",leidy.zapata@davivienda.com,NULL,NULL
+377,"2025-08-25 09:27:45","2025-08-25 09:40:28",leidy.durango@davivienda.com,NULL,NULL
+378,"2025-08-25 09:28:21",NULL,natalia.garciam@davivienda.com,NULL,NULL
+379,"2025-08-25 09:28:56","2025-08-25 09:35:42",fiolano@davivienda.com,NULL,NULL
+380,"2025-08-25 09:28:59","2025-08-25 09:35:28",natalia.garciam@davivienda.com,NULL,NULL
+381,"2025-08-25 09:29:11","2025-08-25 13:59:57",juangilp@davivienda.com,NULL,NULL
+382,"2025-08-25 09:29:24","2025-08-25 09:35:39",leidy.durango@davivienda.com,NULL,NULL
+383,"2025-08-25 09:30:13","2025-08-25 09:42:22",anamlope@davivienda.com,NULL,NULL
+384,"2025-08-25 09:30:23","2025-08-25 09:36:42",lmparram@davivienda.com,NULL,NULL
+385,"2025-08-25 09:30:50",NULL,lizeth.usma@davivienda.com,NULL,NULL
+386,"2025-08-25 09:31:39","2025-08-25 09:38:04",wilson.valencia@davivienda.com,NULL,NULL
+387,"2025-08-25 09:32:24",NULL,daniela.mejia@davivienda.com,NULL,NULL
+388,"2025-08-25 09:33:21","2025-08-25 09:43:06",enriquea@davivienda.com,NULL,NULL
+389,"2025-08-25 09:33:54","2025-08-25 09:34:05",lizeth.usma@davivienda.com,NULL,NULL
+390,"2025-08-25 09:34:10",NULL,lialzate@davivienda.com,NULL,NULL
+391,"2025-08-25 09:34:58","2025-08-25 09:44:08",karehern@davivienda.com,NULL,NULL
+392,"2025-08-25 09:37:43","2025-08-25 09:46:21",lcorrear@davivienda.com,NULL,NULL
+393,"2025-08-25 09:35:39","2025-08-25 09:42:28",leidy.durango@davivienda.com,NULL,NULL
+394,"2025-08-25 09:36:21","2025-08-25 09:39:34",lialzate@davivienda.com,NULL,Usuario
+395,"2025-08-25 09:36:29","2025-08-25 09:42:03",karenl.jimenezmartin@davivienda.com,NULL,NULL
+396,"2025-08-25 09:37:04","2025-08-25 10:13:57",pcuribe@davivienda.com,NULL,NULL
+397,"2025-08-25 09:38:44","2025-08-25 09:44:44",karenl.jimenezmartin@davivienda.com,NULL,IA
+398,"2025-08-25 09:38:50","2025-08-25 09:45:52",almartin@davivienda.com,NULL,NULL
+399,"2025-08-25 09:39:01","2025-08-25 09:45:14",lauaceve@davivienda.com,NULL,NULL
+400,"2025-08-25 09:39:10","2025-08-25 09:41:49",chernandez@davivienda.com,NULL,NULL
+401,"2025-08-25 09:40:45","2025-08-25 09:45:51",dbeltranm@davivienda.com,NULL,NULL
+402,"2025-08-25 09:41:31","2025-08-25 10:07:41",sandram.pinzon@davivienda.com,NULL,NULL
+403,"2025-08-25 09:41:51","2025-08-25 09:48:31",bcarenas@davivienda.com,NULL,NULL
+404,"2025-08-25 09:42:28","2025-08-25 11:40:59",jainer.blanco@davivienda.com,NULL,NULL
+405,"2025-08-25 09:43:06","2025-08-25 09:47:21",enriquea@davivienda.com,NULL,NULL
+406,"2025-08-25 09:43:24","2025-08-25 09:49:12",sarvasco@davivienda.com,NULL,NULL
+407,"2025-08-25 09:43:30","2025-08-25 09:46:18",anamlope@davivienda.com,NULL,NULL
+408,"2025-08-25 09:44:08","2025-08-25 09:49:44",karehern@davivienda.com,NULL,NULL
+409,"2025-08-25 09:46:39","2025-08-25 09:59:01",lcorrear@davivienda.com,NULL,NULL
+410,"2025-08-25 09:44:52","2025-08-25 09:50:41",daarestr@davivienda.com,NULL,NULL
+411,"2025-08-25 09:48:39","2025-08-25 09:54:00",juan.carmonagonzalez@davivienda.com,NULL,NULL
+412,"2025-08-25 09:45:07","2025-08-25 09:55:55",paula.arboleda@davivienda.com,NULL,NULL
+413,"2025-08-25 09:45:10","2025-08-25 10:00:54",maria.barrios@davivienda.com,NULL,NULL
+414,"2025-08-25 09:45:18","2025-08-25 11:17:43",iquiceno@davivienda.com,NULL,NULL
+415,"2025-08-25 09:47:41",NULL,lizeth.villegas@davivienda.com,NULL,NULL
+416,"2025-08-25 09:47:49","2025-08-25 10:02:42",enriquea@davivienda.com,NULL,"Usuario + IA"
+417,"2025-08-25 09:48:15","2025-08-25 09:56:00",jaibaort@davivienda.com,NULL,NULL
+418,"2025-08-25 09:49:01","2025-08-25 11:15:32",lizeth.villegas@davivienda.com,NULL,Usuario
+419,"2025-08-25 09:49:45","2025-08-25 09:50:46",margarita.velez@davivienda.com,NULL,NULL
+420,"2025-08-25 09:49:46",NULL,maryi.arango@davivienda.com,NULL,NULL
+421,"2025-08-25 09:50:56",NULL,vanessa.pinedapadilla@davivienda.com,NULL,NULL
+422,"2025-08-25 09:51:05","2025-08-25 09:57:01",maryi.arango@davivienda.com,NULL,NULL
+423,"2025-08-25 09:51:31","2025-08-25 09:56:37",gabriel.gomez@davivienda.com,NULL,NULL
+424,"2025-08-25 09:51:41","2025-08-25 10:09:22",laura.villegas@davivienda.com,NULL,NULL
+425,"2025-08-25 09:51:58",NULL,samuel.florez@davivienda.com,NULL,NULL
+426,"2025-08-25 09:52:58",NULL,sxlopez@davivienda.com,NULL,NULL
+427,"2025-08-25 10:03:08",NULL,duvan.garcia@davivienda.com,NULL,NULL
+428,"2025-08-25 09:54:23","2025-08-25 10:19:45",dbeltranm@davivienda.com,NULL,NULL
+429,"2025-08-25 09:54:45",NULL,camilo.ramirez@davivienda.com,NULL,NULL
+430,"2025-08-25 09:55:34","2025-08-25 10:16:30",lilopezm@davivienda.com,NULL,NULL
+431,"2025-08-25 09:55:54","2025-08-25 10:18:25",mfcardon@davivienda.com,NULL,NULL
+432,"2025-08-25 09:55:55","2025-08-25 10:01:59",paula.arboleda@davivienda.com,NULL,NULL
+433,"2025-08-25 10:05:20",NULL,duvan.garcia@davivienda.com,NULL,NULL
+434,"2025-08-25 09:56:31","2025-08-25 10:02:49",escalald@davivienda.com,NULL,NULL
+435,"2025-08-25 09:59:01","2025-08-25 10:17:35",lcorrear@davivienda.com,NULL,NULL
+436,"2025-08-25 09:57:19",NULL,decastil@davivienda.com,NULL,NULL
+437,"2025-08-25 09:57:49",NULL,decastil@davivienda.com,NULL,NULL
+438,"2025-08-25 10:07:27","2025-08-25 10:12:33",duvan.garcia@davivienda.com,NULL,NULL
+439,"2025-08-25 09:58:42","2025-08-25 10:06:14",dagomezm@davivienda.com,NULL,NULL
+440,"2025-08-25 09:58:56","2025-08-25 10:14:07",pechavar@davivienda.com,NULL,NULL
+441,"2025-08-25 09:59:23","2025-08-25 10:05:02",adriana.castro@davivienda.com,NULL,NULL
+442,"2025-08-25 09:59:41",NULL,laucaraq@davivienda.com,NULL,NULL
+443,"2025-08-25 10:00:47",NULL,phdacost@davivienda.com,NULL,NULL
+444,"2025-08-25 10:01:20","2025-08-25 10:06:25",laucaraq@davivienda.com,NULL,NULL
+445,"2025-08-25 10:01:27","2025-08-25 10:07:34",jppenaf@davivienda.com,NULL,NULL
+446,"2025-08-25 10:01:38","2025-08-25 10:13:21",jtaborda@davivienda.com,NULL,NULL
+447,"2025-08-25 10:03:17","2025-08-25 10:03:56",enriquea@davivienda.com,NULL,NULL
+448,"2025-08-25 10:04:00",NULL,maujruiz@davivienda.com,NULL,NULL
+449,"2025-08-25 10:04:29","2025-08-25 10:12:30",lmalvare@davivienda.com,NULL,NULL
+450,"2025-08-25 10:04:48","2025-08-25 10:06:07",enriquea@davivienda.com,NULL,NULL
+451,"2025-08-25 10:05:43","2025-08-25 10:14:04",davila@davivienda.com,NULL,Usuario
+452,"2025-08-25 10:06:02","2025-08-25 10:11:02",maujruiz@davivienda.com,NULL,NULL
+453,"2025-08-25 10:06:14","2025-08-25 10:07:18",dagomezm@davivienda.com,NULL,NULL
+454,"2025-08-25 10:06:39","2025-08-25 10:16:09",enriquea@davivienda.com,NULL,IA
+455,"2025-08-25 10:06:41","2025-08-25 10:35:27",juan.zapata@davivienda.com,NULL,NULL
+456,"2025-08-25 10:07:06",NULL,davila@davivienda.com,NULL,NULL
+457,"2025-08-25 10:07:30","2025-08-25 10:14:22",dagomezm@davivienda.com,NULL,NULL
+458,"2025-08-25 10:07:41","2025-08-25 10:15:16",sandram.pinzon@davivienda.com,NULL,NULL
+459,"2025-08-25 10:07:46","2025-08-25 10:12:51",davila@davivienda.com,NULL,NULL
+460,"2025-08-25 10:08:13","2025-08-25 10:18:03",eliana.giraldo@davivienda.com,NULL,NULL
+461,"2025-08-25 10:10:02",NULL,jmcastan@davivienda.com,NULL,NULL
+462,"2025-08-25 10:11:30",NULL,laura.villegas@davivienda.com,NULL,NULL
+463,"2025-08-25 10:11:41",NULL,jmcastan@davivienda.com,NULL,NULL
+464,"2025-08-25 10:12:37",NULL,davila@davivienda.com,NULL,NULL
+465,"2025-08-25 10:13:05",NULL,davila@davivienda.com,NULL,NULL
+466,"2025-08-25 10:13:21","2025-08-25 10:17:02",jtaborda@davivienda.com,NULL,Usuario
+467,"2025-08-25 10:13:23","2025-08-25 10:19:55",decastil@davivienda.com,NULL,Usuario
+468,"2025-08-25 10:13:57","2025-08-25 10:18:39",pcuribe@davivienda.com,NULL,NULL
+469,"2025-08-25 10:14:30","2025-08-25 10:22:34",davila@davivienda.com,NULL,Usuario
+470,"2025-08-25 10:15:46",NULL,julian.rodriguezvelasquez@davivienda.com,NULL,NULL
+471,"2025-08-25 10:16:30","2025-08-25 10:51:08",lilopezm@davivienda.com,NULL,Usuario
+472,"2025-08-25 10:16:33","2025-08-25 10:18:35",amsaldarria@davivienda.com,NULL,NULL
+473,"2025-08-25 10:16:33","2025-08-25 10:17:38",wibedoya@davivienda.com,NULL,NULL
+474,"2025-08-25 10:18:03","2025-08-25 10:29:12",eliana.giraldo@davivienda.com,NULL,NULL
+475,"2025-08-25 10:18:25","2025-08-25 11:03:23",mfcardon@davivienda.com,NULL,NULL
+476,"2025-08-25 10:18:49",NULL,neidya.cancelado@davivienda.com,NULL,NULL
+477,"2025-08-25 10:19:00","2025-08-25 10:21:17",almartin@davivienda.com,NULL,NULL
+478,"2025-08-25 10:19:27","2025-08-25 10:27:57",neidya.cancelado@davivienda.com,NULL,NULL
+479,"2025-08-25 10:19:45","2025-08-25 10:25:47",dbeltranm@davivienda.com,NULL,NULL
+480,"2025-08-25 10:20:45",NULL,rojascha@davivienda.com,NULL,NULL
+481,"2025-08-25 10:21:24",NULL,daniela.mesa@davivienda.com,NULL,NULL
+482,"2025-08-25 10:21:30",NULL,almartin@davivienda.com,NULL,NULL
+483,"2025-08-25 10:26:12","2025-08-25 14:32:25",jhon.rivera@davivienda.com,NULL,NULL
+484,"2025-08-25 10:28:55","2025-08-25 14:10:42",yaagumej@davivienda.com,NULL,NULL
+485,"2025-08-25 10:28:37","2025-08-25 11:13:14",bjgarcia@davivienda.com,NULL,NULL
+486,"2025-08-25 10:29:51",NULL,dairo.ospina@davivienda.com,NULL,NULL
+487,"2025-08-25 10:33:46","2025-08-25 10:57:35",esramire@davivienda.com,NULL,NULL
+488,"2025-08-25 10:35:20","2025-08-25 10:41:44",ivonne.ladino@davivienda.com,NULL,NULL
+489,"2025-08-25 10:35:27","2025-08-25 10:48:28",juan.zapata@davivienda.com,NULL,NULL
+490,"2025-08-25 10:38:09","2025-08-25 11:27:12",davila@davivienda.com,NULL,NULL
+491,"2025-08-25 10:39:11","2025-08-25 12:14:58",dianam.caitamejia@davivienda.com,NULL,NULL
+492,"2025-08-25 10:39:42","2025-08-25 10:44:41",jessica.arevalo@davivienda.com,NULL,IA
+493,"2025-08-25 10:40:14","2025-08-25 15:02:02",cindy.galvis@davivienda.com,NULL,NULL
+494,"2025-08-25 10:41:18","2025-08-25 10:49:22",lpospina@davivienda.com,NULL,NULL
+495,"2025-08-25 10:49:27","2025-08-25 10:58:43",dfmontea@davivienda.com,NULL,NULL
+496,"2025-08-25 10:51:08","2025-08-25 10:56:43",lilopezm@davivienda.com,NULL,NULL
+497,"2025-08-25 10:51:50","2025-08-25 11:14:28",lauaceve@davivienda.com,NULL,NULL
+498,"2025-08-25 10:54:52","2025-08-25 11:03:14",mmmontoya@davivienda.com,NULL,NULL
+499,"2025-08-25 10:58:17","2025-08-25 12:23:21",jarestrepos@davivienda.com,NULL,NULL
+500,"2025-08-25 10:58:24","2025-08-25 11:06:06",angie.otalora@davivienda.com,NULL,NULL
+501,"2025-08-25 11:01:45",NULL,diana.castrocastaneda@davivienda.com,NULL,NULL
+502,"2025-08-25 11:02:51","2025-08-25 12:04:22",jppenaf@davivienda.com,NULL,NULL
+503,"2025-08-25 11:03:23","2025-08-25 11:15:05",mfcardon@davivienda.com,NULL,NULL
+504,"2025-08-25 11:08:35","2025-08-25 11:15:06",eralvare@davivienda.com,NULL,NULL
+505,"2025-08-25 11:12:56","2025-08-25 11:19:03",karenl.jimenezmartin@davivienda.com,NULL,NULL
+506,"2025-08-25 11:13:09","2025-08-25 11:20:47",almartin@davivienda.com,NULL,NULL
+507,"2025-08-25 11:13:14","2025-08-25 11:19:12",bjgarcia@davivienda.com,NULL,NULL
+508,"2025-08-25 11:14:28","2025-08-25 11:24:06",lauaceve@davivienda.com,NULL,NULL
+509,"2025-08-25 11:14:28","2025-08-25 11:21:40",arsuarez@davivienda.com,NULL,NULL
+510,"2025-08-25 11:15:05","2025-08-25 11:15:25",mfcardon@davivienda.com,NULL,NULL
+511,"2025-08-25 11:15:32","2025-08-25 11:21:32",lizeth.villegas@davivienda.com,NULL,NULL
+512,"2025-08-25 11:23:25",NULL,danna.rozo@davivienda.com,NULL,NULL
+513,"2025-08-25 11:24:06",NULL,lauaceve@davivienda.com,NULL,NULL
+514,"2025-08-25 11:24:48","2025-08-25 11:32:20",danna.rozo@davivienda.com,NULL,NULL
+515,"2025-08-25 11:28:00",NULL,limrinco@davivienda.com,NULL,NULL
+516,"2025-08-25 11:28:09",NULL,chernandez@davivienda.com,NULL,NULL
+517,"2025-08-25 11:29:47",NULL,chernandez@davivienda.com,NULL,NULL
+518,"2025-08-25 11:31:00","2025-08-25 13:27:42",daniela.mejia@davivienda.com,NULL,NULL
+519,"2025-08-25 11:31:28","2025-08-25 11:36:58",diariver@davivienda.com,NULL,NULL
+520,"2025-08-25 11:32:20","2025-08-25 11:42:20",danna.rozo@davivienda.com,NULL,NULL
+521,"2025-08-25 11:32:44","2025-08-25 11:39:44",daniel.lombanac@davivienda.com,NULL,NULL
+522,"2025-08-25 11:34:32","2025-08-25 11:40:17",johannaa.sanchezp@davivienda.com,NULL,NULL
+523,"2025-08-25 11:40:59","2025-08-25 11:41:18",jainer.blanco@davivienda.com,NULL,NULL
+524,"2025-08-25 11:42:20","2025-08-25 11:47:51",danna.rozo@davivienda.com,NULL,NULL
+525,"2025-08-25 11:43:16",NULL,emmolano@davivienda.com,NULL,NULL
+526,"2025-08-25 11:47:11","2025-08-25 12:40:45",mpherrera@davivienda.com,NULL,NULL
+527,"2025-08-25 11:54:24",NULL,emmolano@davivienda.com,NULL,NULL
+528,"2025-08-25 12:03:53","2025-08-25 12:07:36",algutile@davivienda.com,NULL,Usuario
+529,"2025-08-25 12:14:04","2025-08-25 12:48:04",lcorrear@davivienda.com,NULL,NULL
+530,"2025-08-25 12:16:49",NULL,jose.cabezas@davivienda.com,NULL,NULL
+531,"2025-08-25 12:19:49",NULL,emmolano@davivienda.com,NULL,NULL
+532,"2025-08-25 12:22:25","2025-08-25 12:28:35",tatiana.fernandez@davivienda.com,NULL,NULL
+533,"2025-08-25 12:23:17",NULL,jemejia@davivienda.com,NULL,NULL
+534,"2025-08-25 12:23:21","2025-08-25 15:55:13",jarestrepos@davivienda.com,NULL,NULL
+535,"2025-08-25 12:30:59",NULL,damian.de@davivienda.com,NULL,NULL
+536,"2025-08-25 12:40:45","2025-08-25 15:12:35",mpherrera@davivienda.com,NULL,NULL
+537,"2025-08-25 12:40:56",NULL,mjimenezs@davivienda.com,NULL,NULL
+538,"2025-08-25 12:42:09","2025-08-25 12:49:25",almartin@davivienda.com,NULL,NULL
+539,"2025-08-25 12:43:50","2025-08-25 12:55:36",mdpvargasf@davivienda.com,NULL,NULL
+540,"2025-08-25 12:43:51",NULL,angie.otalora@davivienda.com,NULL,NULL
+541,"2025-08-25 13:04:49",NULL,carlos.riano@davivienda.com,NULL,NULL
+542,"2025-08-25 13:09:21","2025-08-25 13:27:06",carlos.riano@davivienda.com,NULL,NULL
+543,"2025-08-25 13:15:08",NULL,emmolano@davivienda.com,NULL,NULL
+544,"2025-08-25 13:17:23",NULL,eucarist@davivienda.com,NULL,NULL
+545,"2025-08-25 13:17:55","2025-08-25 13:24:05",dachicae@davivienda.com,NULL,NULL
+546,"2025-08-25 13:19:52","2025-08-25 15:36:22",esramire@davivienda.com,NULL,NULL
+547,"2025-08-25 13:24:20","2025-08-25 14:05:48",stiwar.restrepo@davivienda.com,NULL,NULL
+548,"2025-08-25 13:29:14","2025-08-25 13:35:05",valentina.galindo@davivienda.com,NULL,NULL
+549,"2025-08-25 13:43:40","2025-08-25 13:54:18",darammor@davivienda.com,NULL,NULL
+550,"2025-08-25 13:53:41","2025-08-25 14:00:41",andres.gomezorduy@davivienda.com,NULL,NULL
+551,"2025-08-25 13:54:18",NULL,darammor@davivienda.com,NULL,NULL
+552,"2025-08-25 13:59:18","2025-08-25 14:05:16",diariver@davivienda.com,NULL,NULL
+553,"2025-08-25 14:02:42","2025-08-25 14:15:56",darammor@davivienda.com,NULL,NULL
+554,"2025-08-25 14:05:48","2025-08-25 14:18:27",stiwar.restrepo@davivienda.com,NULL,NULL
+555,"2025-08-25 14:10:42","2025-08-25 14:20:58",yaagumej@davivienda.com,NULL,NULL
+556,"2025-08-25 14:11:15","2025-08-25 14:25:12",fabiol.puentesbecerra@davivienda.com,NULL,NULL
+557,"2025-08-25 14:14:04",NULL,lcpinzon@davivienda.com,NULL,NULL
+558,"2025-08-25 14:15:29",NULL,lcpinzon@davivienda.com,NULL,NULL
+559,"2025-08-25 14:15:56","2025-08-25 14:21:29",darammor@davivienda.com,NULL,NULL
+560,"2025-08-25 14:19:06","2025-08-25 14:29:13",jhblanco@davivienda.com,NULL,NULL
+561,"2025-08-25 14:25:12","2025-08-25 14:25:35",fabiol.puentesbecerra@davivienda.com,NULL,NULL
+562,"2025-08-25 14:25:44","2025-08-25 14:32:49",fabiol.puentesbecerra@davivienda.com,NULL,NULL
+563,"2025-08-25 14:30:59","2025-08-25 14:38:22",imzabala@davivienda.com,NULL,NULL
+564,"2025-08-25 14:34:13","2025-08-25 14:41:32",wendy.aguirre@davivienda.com,NULL,NULL
+565,"2025-08-25 14:38:22","2025-08-25 14:38:45",imzabala@davivienda.com,NULL,NULL
+566,"2025-08-25 14:38:57","2025-08-25 16:30:43",jppenaf@davivienda.com,NULL,Usuario
+567,"2025-08-25 14:40:12","2025-08-25 14:46:08",laurav.sanabricantor@davivienda.com,NULL,NULL
+568,"2025-08-25 14:41:48",NULL,dianak.ovallecordoba@davivienda.com,NULL,NULL
+569,"2025-08-25 14:41:51","2025-08-25 14:47:28",leidy.durango@davivienda.com,NULL,NULL
+570,"2025-08-25 14:45:19","2025-08-25 14:50:59",ginap.manrique@davivienda.com,NULL,NULL
+571,"2025-08-25 14:46:09",NULL,ginap.manrique@davivienda.com,NULL,NULL
+572,"2025-08-25 14:49:33",NULL,nsabogal@davivienda.com,NULL,NULL
+573,"2025-08-25 14:57:18","2025-08-25 15:04:37",anay.garciago@davivienda.com,NULL,IA
+574,"2025-08-25 15:02:02","2025-08-25 15:07:08",cindy.galvis@davivienda.com,NULL,NULL
+575,"2025-08-25 15:05:55","2025-08-25 15:11:26",anay.garciago@davivienda.com,NULL,NULL
+576,"2025-08-25 15:06:59",NULL,ginap.manrique@davivienda.com,NULL,NULL
+577,"2025-08-25 15:07:25","2025-08-25 15:07:38",carcastr@davivienda.com,NULL,NULL
+578,"2025-08-25 15:08:08","2025-08-25 15:13:31",mnsanche@davivienda.com,NULL,NULL
+579,"2025-08-25 15:12:35","2025-08-25 15:15:15",mpherrera@davivienda.com,NULL,NULL
+580,"2025-08-25 15:22:12","2025-08-25 15:31:17",imzabala@davivienda.com,NULL,NULL
+581,"2025-08-25 15:42:09",NULL,mfjarros@davivienda.com,NULL,NULL
+582,"2025-08-25 15:46:45",NULL,jblopeza@davivienda.com,NULL,NULL
+583,"2025-08-25 15:50:26",NULL,jblopeza@davivienda.com,NULL,NULL
+584,"2025-08-25 15:51:17","2025-08-25 15:51:30",ciarango@davivienda.com,NULL,NULL
+585,"2025-08-25 15:52:20","2025-08-25 16:00:44",daniel.lombanac@davivienda.com,NULL,NULL
+586,"2025-08-25 15:55:13","2025-08-25 16:38:06",jarestrepos@davivienda.com,NULL,NULL
+587,"2025-08-25 16:17:24","2025-08-25 16:28:55",jeimmy.roncancio@davivienda.com,NULL,NULL
+588,"2025-08-25 16:21:24","2025-08-25 16:48:35",mpherrera@davivienda.com,NULL,NULL
+589,"2025-08-25 16:28:55","2025-08-25 17:13:58",jeimmy.roncancio@davivienda.com,NULL,NULL
+590,"2025-08-25 16:29:27","2025-08-25 17:55:24",tatiana.fernandez@davivienda.com,NULL,NULL
+591,"2025-08-25 16:30:40",NULL,jeimmy.roncancio@davivienda.com,NULL,NULL
+592,"2025-08-25 16:30:53","2025-08-25 17:00:49",jppenaf@davivienda.com,NULL,NULL
+593,"2025-08-25 16:32:53","2025-08-25 16:47:10",ginap.manrique@davivienda.com,NULL,NULL
+594,"2025-08-25 16:37:49","2025-08-25 16:40:06",lamacias@davivienda.com,NULL,NULL
+595,"2025-08-25 16:38:06","2025-08-25 16:43:35",jarestrepos@davivienda.com,NULL,IA
+596,"2025-08-25 16:40:20",NULL,carolj.carranzaperez@davivienda.com,NULL,NULL
+597,"2025-08-25 16:41:52","2025-08-25 16:50:19",lamacias@davivienda.com,NULL,NULL
+598,"2025-08-25 16:43:05","2025-08-25 16:52:36",saramrod@davivienda.com,NULL,NULL
+599,"2025-08-25 16:43:56","2025-08-25 16:49:31",carolj.carranzaperez@davivienda.com,NULL,NULL
+600,"2025-08-25 16:46:14","2025-08-25 16:54:16",dhfagua@davivienda.com,NULL,NULL
+601,"2025-08-25 16:47:10","2025-08-25 16:53:29",ginap.manrique@davivienda.com,NULL,NULL
+602,"2025-08-25 16:48:35","2025-08-25 17:01:29",mpherrera@davivienda.com,NULL,NULL
+603,"2025-08-25 17:00:57",NULL,jppenaf@davivienda.com,NULL,Usuario
+604,"2025-08-25 17:01:29","2025-08-25 17:07:57",mpherrera@davivienda.com,NULL,NULL
+605,"2025-08-25 17:04:46","2025-08-25 17:08:25",dianam.caitamejia@davivienda.com,NULL,NULL
+606,"2025-08-25 17:09:18","2025-08-25 17:20:50",jppenaf@davivienda.com,NULL,Usuario
+607,"2025-08-25 17:13:58","2025-08-25 17:20:51",jeimmy.roncancio@davivienda.com,NULL,NULL
+608,"2025-08-25 17:21:00","2025-08-25 17:31:05",jppenaf@davivienda.com,NULL,Usuario
+609,"2025-08-25 17:23:50","2025-08-25 17:34:04",patricia.quintero@davivienda.com,NULL,NULL
+610,"2025-08-25 17:25:21","2025-08-25 17:32:27",dianam.caitamejia@davivienda.com,NULL,NULL
+611,"2025-08-25 17:31:17",NULL,jppenaf@davivienda.com,NULL,Usuario
+612,"2025-08-25 17:33:21","2025-08-26 08:06:47",jppenaf@davivienda.com,NULL,Usuario
+613,"2025-08-25 17:34:12","2025-08-25 17:39:53",michael.martinez@davivienda.com,NULL,NULL
+614,"2025-08-25 17:34:32","2025-08-25 17:40:14",dianam.caitamejia@davivienda.com,NULL,NULL
+615,"2025-08-25 17:36:10",NULL,bjcubill@davivienda.com,NULL,NULL
+616,"2025-08-25 17:40:08",NULL,maureen.garzon@davivienda.com,NULL,NULL
+617,"2025-08-25 17:49:26","2025-08-25 17:49:42",maureen.garzon@davivienda.com,NULL,NULL
+618,"2025-08-25 17:50:02","2025-08-25 18:33:43",maureen.garzon@davivienda.com,NULL,NULL
+619,"2025-08-25 17:55:24","2025-08-26 10:50:12",tatiana.fernandez@davivienda.com,NULL,NULL
+620,"2025-08-25 17:55:55",NULL,juan.venegas@davivienda.com,NULL,NULL
+621,"2025-08-25 17:58:54",NULL,michael.martinez@davivienda.com,NULL,NULL
+622,"2025-08-25 18:02:37",NULL,ginap.manrique@davivienda.com,NULL,NULL
+623,"2025-08-25 18:02:38",NULL,slcorred@davivienda.com,NULL,NULL
+624,"2025-08-25 18:05:32","2025-08-25 18:15:33",dagommen@davivienda.com,NULL,NULL
+625,"2025-08-25 18:15:33","2025-08-25 18:21:52",dagommen@davivienda.com,NULL,NULL
+626,"2025-08-25 18:30:18","2025-08-27 09:31:32",juliana.caicedoacevedo@davivienda.com,NULL,NULL
+627,"2025-08-25 19:21:50","2025-08-25 19:27:33",slcorred@davivienda.com,NULL,NULL
+628,"2025-08-25 19:33:37","2025-08-25 19:39:25",darammor@davivienda.com,NULL,NULL
+629,"2025-08-25 19:58:50","2025-08-25 20:05:02",lamacias@davivienda.com,NULL,NULL
+630,"2025-08-25 20:27:06",NULL,lframirezm@davivienda.com,NULL,NULL
+631,"2025-08-25 21:00:35","2025-08-25 21:03:39",dagommen@davivienda.com,NULL,NULL
+632,"2025-08-25 21:04:19","2025-08-25 21:09:35",dagommen@davivienda.com,NULL,NULL
+633,"2025-08-25 21:10:28","2025-08-25 21:44:24",maureen.garzon@davivienda.com,NULL,NULL
+634,"2025-08-25 21:44:24",NULL,maureen.garzon@davivienda.com,NULL,NULL
+635,"2025-08-25 21:49:51","2025-08-25 21:55:31",saramrod@davivienda.com,NULL,NULL
+636,"2025-08-25 22:50:47",NULL,maureen.garzon@davivienda.com,NULL,NULL
+637,"2025-08-25 22:51:03","2025-08-25 22:57:11",maureen.garzon@davivienda.com,NULL,NULL
+638,"2025-08-25 22:51:26",NULL,maureen.garzon@davivienda.com,NULL,NULL
+639,"2025-08-25 23:09:48","2025-08-25 23:15:31",saramrod@davivienda.com,NULL,NULL
+640,"2025-08-25 23:45:05",NULL,lamacias@davivienda.com,NULL,NULL
+641,"2025-08-26 06:00:30","2025-08-26 06:06:36",andres.gomezorduy@davivienda.com,NULL,NULL
+642,"2025-08-26 07:26:38","2025-08-26 07:32:52",escalald@davivienda.com,NULL,NULL
+643,"2025-08-26 07:26:52","2025-08-26 08:27:32",agalbmen@davivienda.com,NULL,NULL
+644,"2025-08-26 07:28:17","2025-08-26 07:33:23",mnsanche@davivienda.com,NULL,NULL
+645,"2025-08-26 07:55:38","2025-08-26 10:03:10",angie.otalora@davivienda.com,NULL,NULL
+646,"2025-08-26 07:56:42","2025-08-26 08:02:15",valentina.galindo@davivienda.com,NULL,NULL
+647,"2025-08-26 08:05:46","2025-08-26 12:41:17",mariof.granadoscanon@davivienda.com,NULL,NULL
+648,"2025-08-26 08:07:20",NULL,valentina.galindo@davivienda.com,NULL,NULL
+649,"2025-08-26 08:07:38","2025-08-26 08:14:02",mayra.prada@davivienda.com,NULL,NULL
+650,"2025-08-26 08:08:10",NULL,jppenaf@davivienda.com,NULL,IA
+651,"2025-08-26 08:10:19","2025-08-26 08:18:18",jppenaf@davivienda.com,NULL,IA
+652,"2025-08-26 08:14:35","2025-08-26 08:30:47",algutile@davivienda.com,NULL,Usuario
+653,"2025-08-26 08:16:01","2025-08-26 08:21:50",danna.rozo@davivienda.com,NULL,NULL
+654,"2025-08-26 08:20:12","2025-08-26 13:15:44",esramire@davivienda.com,NULL,NULL
+655,"2025-08-26 08:23:05","2025-08-26 08:29:35",andres.gomezorduy@davivienda.com,NULL,NULL
+656,"2025-08-26 08:23:33",NULL,carlos.riano@davivienda.com,NULL,NULL
+657,"2025-08-26 08:35:41",NULL,darenasm@davivienda.com,NULL,NULL
+658,"2025-08-26 08:42:09","2025-08-26 09:33:31",kjarenas@davivienda.com,NULL,NULL
+659,"2025-08-26 08:44:05","2025-08-26 13:24:26",agalbmen@davivienda.com,NULL,NULL
+660,"2025-08-26 08:50:17",NULL,carojasg@davivienda.com,NULL,NULL
+661,"2025-08-26 08:51:31","2025-08-26 10:27:00",silvia.mosquera@davivienda.com,NULL,NULL
+662,"2025-08-26 09:00:38",NULL,lacarher@davivienda.com,NULL,NULL
+663,"2025-08-26 09:00:57","2025-08-26 09:06:03",wilson.valencia@davivienda.com,NULL,NULL
+664,"2025-08-26 09:02:38","2025-08-26 09:08:03",yaagumej@davivienda.com,NULL,IA
+665,"2025-08-26 09:02:36","2025-08-26 09:07:42",leidy.zapata@davivienda.com,NULL,NULL
+666,"2025-08-26 09:04:44","2025-08-26 10:22:00",vaflorez@davivienda.com,NULL,NULL
+667,"2025-08-26 09:04:59","2025-08-26 09:07:23",alramire@davivienda.com,NULL,NULL
+668,"2025-08-26 09:05:01","2025-08-26 09:11:31",sandy.gallego@davivienda.com,NULL,NULL
+669,"2025-08-26 09:05:34","2025-08-26 09:11:55",zysuarez@davivienda.com,NULL,NULL
+670,"2025-08-26 09:07:06","2025-08-26 09:13:17",dmarroyo@davivienda.com,NULL,NULL
+671,"2025-08-26 09:07:15",NULL,imzabala@davivienda.com,NULL,NULL
+672,"2025-08-26 09:08:00",NULL,vimcatan@davivienda.com,NULL,NULL
+673,"2025-08-26 09:08:50",NULL,dagomezm@davivienda.com,NULL,NULL
+674,"2025-08-26 09:08:57","2025-08-26 09:14:32",jhblanco@davivienda.com,NULL,NULL
+675,"2025-08-26 09:09:45","2025-08-26 09:17:24",lilopezm@davivienda.com,NULL,NULL
+676,"2025-08-26 09:10:01","2025-08-26 09:34:06",sxlopez@davivienda.com,NULL,NULL
+677,"2025-08-26 09:10:12",NULL,angellari@davivienda.com,NULL,NULL
+678,"2025-08-26 09:10:26","2025-08-26 09:14:33",almartin@davivienda.com,NULL,NULL
+679,"2025-08-26 09:10:54",NULL,nathalia.ruiz@davivienda.com,NULL,NULL
+680,"2025-08-26 09:11:56","2025-08-26 09:26:28",elramire@davivienda.com,NULL,IA
+681,"2025-08-26 09:12:49",NULL,nathalia.ruiz@davivienda.com,NULL,IA
+682,"2025-08-26 09:13:16","2025-08-26 09:22:34",ydjimene@davivienda.com,NULL,NULL
+683,"2025-08-26 09:13:17","2025-08-26 09:36:27",dmarroyo@davivienda.com,NULL,NULL
+684,"2025-08-26 09:14:37","2025-08-26 09:22:11",danna.vidal@davivienda.com,NULL,Usuario
+685,"2025-08-26 09:14:44","2025-08-26 09:23:57",almartin@davivienda.com,NULL,NULL
+686,"2025-08-26 09:16:55","2025-08-26 09:48:18",emcardonap@davivienda.com,NULL,NULL
+687,"2025-08-26 09:17:03","2025-08-26 09:22:32",lubin.salazar@davivienda.com,NULL,NULL
+688,"2025-08-26 09:17:08","2025-08-26 11:16:41",oescobar@davivienda.com,NULL,NULL
+689,"2025-08-26 09:18:04","2025-08-26 09:24:14",nathalia.ruiz@davivienda.com,NULL,NULL
+690,"2025-08-26 09:18:35",NULL,pavelher@davivienda.com,NULL,NULL
+691,"2025-08-26 09:19:11","2025-08-26 09:19:32",mfcardon@davivienda.com,NULL,NULL
+692,"2025-08-26 09:21:40","2025-08-26 10:41:09",sandy.gallego@davivienda.com,NULL,NULL
+693,"2025-08-26 09:23:16",NULL,jorramir@davivienda.com,NULL,NULL
+694,"2025-08-26 09:23:56","2025-08-26 09:29:27",monica.velilla@davivienda.com,NULL,NULL
+695,"2025-08-26 09:24:06","2025-08-26 09:37:34",jorramir@davivienda.com,NULL,Usuario
+696,"2025-08-26 09:24:08","2025-08-26 09:38:14",almartin@davivienda.com,NULL,NULL
+697,"2025-08-26 09:25:57","2025-08-26 09:32:23",maujruiz@davivienda.com,NULL,NULL
+698,"2025-08-26 09:25:57","2025-08-26 09:32:21",lubuendi@davivienda.com,NULL,NULL
+699,"2025-08-26 09:26:00",NULL,lauaceve@davivienda.com,NULL,NULL
+700,"2025-08-26 09:27:08","2025-08-26 09:28:45",eider.moreno@davivienda.com,NULL,NULL
+701,"2025-08-26 09:28:34",NULL,yeny.sanchez@davivienda.com,NULL,NULL
+702,"2025-08-26 09:30:47","2025-08-26 09:37:39",mayra.prada@davivienda.com,NULL,NULL
+703,"2025-08-26 09:30:55",NULL,eider.moreno@davivienda.com,NULL,NULL
+704,"2025-08-26 09:31:22",NULL,santiago.quiroz@davivienda.com,NULL,NULL
+705,"2025-08-26 09:31:30",NULL,ejaramillo@davivienda.com,NULL,NULL
+706,"2025-08-26 09:32:15",NULL,ejaramillo@davivienda.com,NULL,NULL
+707,"2025-08-26 09:32:21","2025-08-26 10:22:17",mmmontoya@davivienda.com,NULL,NULL
+708,"2025-08-26 09:32:26",NULL,catasier@davivienda.com,NULL,NULL
+709,"2025-08-26 09:32:38",NULL,alevelez@davivienda.com,NULL,NULL
+710,"2025-08-26 09:32:52","2025-08-26 09:40:55",vanessa.arredondo@davivienda.com,NULL,NULL
+711,"2025-08-26 09:32:53","2025-08-26 09:38:19",leiarbol@davivienda.com,NULL,NULL
+712,"2025-08-26 09:33:28","2025-08-26 09:39:19",samlopez@davivienda.com,NULL,NULL
+713,"2025-08-26 09:33:47","2025-08-26 09:50:06",kjarenas@davivienda.com,NULL,NULL
+714,"2025-08-26 09:33:49","2025-08-26 10:34:27",mfcardon@davivienda.com,NULL,NULL
+715,"2025-08-26 09:34:00",NULL,yeny.sanchez@davivienda.com,NULL,NULL
+716,"2025-08-26 09:34:21",NULL,catasier@davivienda.com,NULL,NULL
+717,"2025-08-26 09:34:30","2025-08-26 09:40:06",sxlopez@davivienda.com,NULL,NULL
+718,"2025-08-26 09:35:32","2025-08-26 09:45:39",alramire@davivienda.com,NULL,IA
+719,"2025-08-26 09:35:56",NULL,ollmunoz@davivienda.com,NULL,NULL
+720,"2025-08-26 09:36:08","2025-08-26 10:42:30",darammor@davivienda.com,NULL,NULL
+721,"2025-08-26 09:36:27","2025-08-26 09:46:45",catasier@davivienda.com,NULL,NULL
+722,"2025-08-26 09:36:39","2025-08-26 09:37:49",lfvelez@davivienda.com,NULL,NULL
+723,"2025-08-26 09:37:27","2025-08-26 09:43:07",jsuarez@davivienda.com,NULL,NULL
+724,"2025-08-26 09:38:01","2025-08-26 10:04:25",nicole.arias@davivienda.com,NULL,NULL
+725,"2025-08-26 09:38:05",NULL,lfvelez@davivienda.com,NULL,NULL
+726,"2025-08-26 09:38:16","2025-08-26 09:44:30",almartin@davivienda.com,NULL,NULL
+727,"2025-08-26 09:38:28","2025-08-26 09:44:25",bcarenas@davivienda.com,NULL,NULL
+728,"2025-08-26 09:38:32","2025-08-26 09:43:57",jonathan.cortes@davivienda.com,NULL,NULL
+729,"2025-08-26 09:38:46","2025-08-26 09:49:58",luihenao@davivienda.com,NULL,NULL
+730,"2025-08-26 09:38:53","2025-08-26 09:54:35",leiarbol@davivienda.com,NULL,NULL
+731,"2025-08-26 09:39:12","2025-08-26 09:43:55",waladiaz@davivienda.com,NULL,NULL
+732,"2025-08-26 09:41:27","2025-08-26 09:50:12",lcorrear@davivienda.com,NULL,NULL
+733,"2025-08-26 09:39:36","2025-08-26 09:44:47",mnsanche@davivienda.com,NULL,NULL
+734,"2025-08-26 09:40:09","2025-08-26 11:21:48",juan.carrillopuche@davivienda.com,NULL,NULL
+735,"2025-08-26 09:40:27","2025-08-26 09:46:28",jstellez@davivienda.com,NULL,NULL
+736,"2025-08-26 09:40:55","2025-08-26 09:47:18",yeny.sanchez@davivienda.com,NULL,NULL
+737,"2025-08-26 09:41:30","2025-08-26 09:54:01",lilopezm@davivienda.com,NULL,NULL
+738,"2025-08-26 09:42:45","2025-08-26 09:43:58",catasier@davivienda.com,NULL,NULL
+739,"2025-08-26 09:43:19","2025-08-26 09:45:01",maria.brito@davivienda.com,NULL,NULL
+740,"2025-08-26 09:43:37","2025-08-26 09:44:12",eddy.ospina@davivienda.com,NULL,NULL
+741,"2025-08-26 09:44:09",NULL,jppenaf@davivienda.com,NULL,IA
+742,"2025-08-26 09:44:10","2025-08-26 09:49:11",jsuarez@davivienda.com,NULL,NULL
+743,"2025-08-26 09:44:47","2025-08-26 10:24:52",daarestr@davivienda.com,NULL,NULL
+744,"2025-08-26 09:44:49","2025-08-26 09:52:08",eddy.ospina@davivienda.com,NULL,Usuario
+745,"2025-08-26 09:45:09","2025-08-26 09:50:20",eduard.blandon@davivienda.com,NULL,NULL
+746,"2025-08-26 09:45:12","2025-08-26 09:51:16",daniel.leon@davivienda.com,NULL,NULL
+747,"2025-08-26 09:45:25","2025-08-26 09:46:43",sigomez@davivienda.com,NULL,NULL
+748,"2025-08-26 09:46:45","2025-08-26 09:52:56",catasier@davivienda.com,NULL,NULL
+749,"2025-08-26 09:46:49","2025-08-26 10:00:36",spposada@davivienda.com,NULL,NULL
+750,"2025-08-26 09:47:04","2025-08-26 09:51:07",jppenaf@davivienda.com,NULL,NULL
+751,"2025-08-26 09:45:35","2025-08-27 09:58:31",kbuitrag@davivienda.com,NULL,NULL
+752,"2025-08-26 09:50:12","2025-08-26 10:09:28",lcorrear@davivienda.com,NULL,NULL
+753,"2025-08-26 09:48:18",NULL,emcardonap@davivienda.com,NULL,NULL
+754,"2025-08-26 09:48:32",NULL,ollmunoz@davivienda.com,NULL,NULL
+755,"2025-08-26 09:49:36","2025-08-26 09:54:50",waladiaz@davivienda.com,NULL,NULL
+756,"2025-08-26 09:49:51","2025-08-26 09:50:36",yilmer.arias@davivienda.com,NULL,NULL
+757,"2025-08-26 09:50:17","2025-08-26 10:30:32",kjarenas@davivienda.com,NULL,NULL
+758,"2025-08-26 09:50:26",NULL,juan.venegas@davivienda.com,NULL,NULL
+759,"2025-08-26 09:51:12","2025-08-26 10:24:53",jppenaf@davivienda.com,NULL,Usuario
+760,"2025-08-26 09:51:46","2025-08-26 10:05:29",natalia.penagos@davivienda.com,NULL,NULL
+761,"2025-08-26 09:52:07","2025-08-26 09:57:12",maria.henao@davivienda.com,NULL,NULL
+762,"2025-08-26 09:52:14","2025-08-26 09:55:16",paola.rozo@davivienda.com,NULL,NULL
+763,"2025-08-26 09:52:31","2025-08-26 10:00:10",jasescob@davivienda.com,NULL,NULL
+764,"2025-08-26 09:53:10","2025-08-26 09:53:24",ollmunoz@davivienda.com,NULL,NULL
+765,"2025-08-26 09:54:01","2025-08-26 11:16:17",lilopezm@davivienda.com,NULL,NULL
+766,"2025-08-26 09:54:35","2025-08-26 10:45:26",leiarbol@davivienda.com,NULL,NULL
+767,"2025-08-26 09:54:45","2025-08-26 09:59:56",eddy.ospina@davivienda.com,NULL,NULL
+768,"2025-08-26 09:55:56",NULL,juancaro@davivienda.com,NULL,NULL
+769,"2025-08-26 09:56:23","2025-08-26 10:03:06",cajarabe@davivienda.com,NULL,NULL
+770,"2025-08-26 09:56:28","2025-08-26 10:14:47",anamlope@davivienda.com,NULL,Usuario
+771,"2025-08-26 09:56:31","2025-08-26 10:04:20",dmarroyo@davivienda.com,NULL,NULL
+772,"2025-08-26 09:59:27","2025-08-26 10:04:12",papermes@davivienda.com,NULL,IA
+773,"2025-08-26 09:59:31","2025-08-26 10:04:36",smcrespo@davivienda.com,NULL,NULL
+774,"2025-08-26 09:59:56","2025-08-26 10:56:15",eddy.ospina@davivienda.com,NULL,Usuario
+775,"2025-08-26 10:00:48","2025-08-26 10:07:50",yeferson.monsalve@davivienda.com,NULL,NULL
+776,"2025-08-26 10:01:38","2025-08-26 10:09:19",oalvarez@davivienda.com,NULL,Usuario
+777,"2025-08-26 10:01:52",NULL,jenosori@davivienda.com,NULL,NULL
+778,"2025-08-26 10:03:10","2025-08-26 10:05:59",angie.otalora@davivienda.com,NULL,NULL
+779,"2025-08-26 10:03:22","2025-08-26 10:09:46",emarbela@davivienda.com,NULL,NULL
+780,"2025-08-26 10:03:26","2025-08-26 10:08:34",diego.montoya@davivienda.com,NULL,NULL
+781,"2025-08-26 10:03:28","2025-08-26 12:05:48",jarestrepos@davivienda.com,NULL,NULL
+782,"2025-08-26 10:03:28",NULL,wahenao@davivienda.com,NULL,NULL
+783,"2025-08-26 10:04:25","2025-08-26 10:09:56",nicole.arias@davivienda.com,NULL,NULL
+784,"2025-08-26 10:05:08","2025-08-26 10:08:47",lpalomeq@davivienda.com,NULL,NULL
+785,"2025-08-26 10:05:12",NULL,luisa.suarez@davivienda.com,NULL,NULL
+786,"2025-08-26 10:05:18","2025-08-26 10:13:38",cajarabe@davivienda.com,NULL,NULL
+787,"2025-08-26 10:05:29","2025-08-26 10:08:44",natalia.penagos@davivienda.com,NULL,NULL
+788,"2025-08-26 10:05:40","2025-08-26 10:14:14",andreap.etayo@davivienda.com,NULL,NULL
+789,"2025-08-26 10:05:46",NULL,jorramir@davivienda.com,NULL,NULL
+790,"2025-08-26 10:06:23","2025-08-26 11:03:41",angie.otalora@davivienda.com,NULL,NULL
+791,"2025-08-26 10:06:27","2025-08-26 10:12:48",ealzatem@davivienda.com,NULL,NULL
+792,"2025-08-26 10:06:29","2025-08-26 10:16:30",emcardonap@davivienda.com,NULL,"Usuario + IA"
+793,"2025-08-26 10:06:36",NULL,luis.zapata@davivienda.com,NULL,NULL
+794,"2025-08-26 10:07:09",NULL,rlandine@davivienda.com,NULL,NULL
+795,"2025-08-26 10:09:28","2025-08-26 10:16:21",lcorrear@davivienda.com,NULL,NULL
+796,"2025-08-26 10:07:50","2025-08-26 10:13:26",luis.zapata@davivienda.com,NULL,NULL
+797,"2025-08-26 10:08:33",NULL,joaarroy@davivienda.com,NULL,NULL
+798,"2025-08-26 10:08:38","2025-08-26 10:15:21",limaruiz@davivienda.com,NULL,NULL
+799,"2025-08-26 10:09:18","2025-08-26 10:32:13",lpalomeq@davivienda.com,NULL,NULL
+800,"2025-08-26 10:10:12",NULL,joaarroy@davivienda.com,NULL,NULL
+801,"2025-08-26 10:10:19","2025-08-26 10:10:54",rlandine@davivienda.com,NULL,NULL
+802,"2025-08-26 10:10:27",NULL,luisa.suarez@davivienda.com,NULL,IA
+803,"2025-08-26 10:16:27","2025-08-26 10:22:27",luaguirr@davivienda.com,NULL,NULL
+804,"2025-08-26 10:11:12","2025-08-26 10:16:40",rlandine@davivienda.com,NULL,NULL
+805,"2025-08-26 10:11:38",NULL,ginap.manrique@davivienda.com,NULL,NULL
+806,"2025-08-26 10:13:00","2025-08-26 13:57:31",mjmarque@davivienda.com,NULL,NULL
+807,"2025-08-26 10:13:02","2025-08-26 10:18:32",luisa.suarez@davivienda.com,NULL,NULL
+808,"2025-08-26 10:15:16",NULL,dogomez@davivienda.com,NULL,NULL
+809,"2025-08-26 10:15:16","2025-08-26 10:21:54",anamlope@davivienda.com,NULL,NULL
+810,"2025-08-26 10:15:21",NULL,limaruiz@davivienda.com,NULL,NULL
+811,"2025-08-26 10:16:40","2025-08-26 10:21:45",rlandine@davivienda.com,NULL,NULL
+812,"2025-08-26 10:16:56","2025-08-26 10:25:23",leidy.durango@davivienda.com,NULL,NULL
+813,"2025-08-26 10:17:17","2025-08-26 10:23:27",rcatane@davivienda.com,NULL,NULL
+814,"2025-08-26 10:18:17","2025-08-26 10:20:52",naarcila@davivienda.com,NULL,NULL
+815,"2025-08-26 10:18:30",NULL,jorramir@davivienda.com,NULL,NULL
+816,"2025-08-26 10:20:53",NULL,daniela.calderon@davivienda.com,NULL,NULL
+817,"2025-08-26 10:21:13","2025-08-26 10:24:18",maira.uribe@davivienda.com,NULL,IA
+818,"2025-08-26 10:22:00","2025-08-26 10:27:05",vaflorez@davivienda.com,NULL,NULL
+819,"2025-08-26 10:22:05","2025-08-26 10:30:22",sergio.villamizar@davivienda.com,NULL,NULL
+820,"2025-08-26 10:22:17","2025-08-26 10:49:12",mmmontoya@davivienda.com,NULL,NULL
+821,"2025-08-26 10:22:28",NULL,cristyanf.amaya@davivienda.com,NULL,NULL
+822,"2025-08-26 10:24:28","2025-08-26 11:23:35",sxlopez@davivienda.com,NULL,NULL
+823,"2025-08-26 10:24:54","2025-08-26 10:30:19",luicasas@davivienda.com,NULL,NULL
+824,"2025-08-26 10:25:03","2025-08-26 10:27:05",jjmolina@davivienda.com,NULL,NULL
+825,"2025-08-26 10:28:18","2025-08-26 10:33:50",yeferson.monsalve@davivienda.com,NULL,NULL
+826,"2025-08-26 10:30:32","2025-08-26 11:59:07",jeimmy.roncancio@davivienda.com,NULL,NULL
+827,"2025-08-26 10:31:24","2025-08-26 10:41:12",kjarenas@davivienda.com,NULL,NULL
+828,"2025-08-26 10:32:25","2025-08-26 10:48:54",lpalomeq@davivienda.com,NULL,NULL
+829,"2025-08-26 10:33:02",NULL,santiago.quiroz@davivienda.com,NULL,IA
+830,"2025-08-26 10:34:07",NULL,yessid.meza@davivienda.com,NULL,Usuario
+831,"2025-08-26 10:34:27",NULL,mfcardon@davivienda.com,NULL,NULL
+832,"2025-08-26 10:35:04","2025-08-26 10:40:55",ydjimene@davivienda.com,NULL,NULL
+833,"2025-08-26 10:35:20","2025-08-26 10:40:26",julian.ruiz@davivienda.com,NULL,NULL
+834,"2025-08-26 10:35:28",NULL,natmoral@davivienda.com,NULL,NULL
+835,"2025-08-26 10:36:18",NULL,mfcardon@davivienda.com,NULL,NULL
+836,"2025-08-26 10:37:17",NULL,mevanega@davivienda.com,NULL,NULL
+837,"2025-08-26 10:38:56","2025-08-26 10:41:21",juan.zapata@davivienda.com,NULL,NULL
+838,"2025-08-26 10:39:07",NULL,mcplaza@davivienda.com,NULL,NULL
+839,"2025-08-26 10:39:27","2025-08-26 10:43:53",mfcardon@davivienda.com,NULL,Usuario
+840,"2025-08-26 10:41:09",NULL,sandy.gallego@davivienda.com,NULL,NULL
+841,"2025-08-26 10:41:24",NULL,jezapata@davivienda.com,NULL,NULL
+842,"2025-08-26 10:41:43","2025-08-26 14:25:03",anamlope@davivienda.com,NULL,NULL
+843,"2025-08-26 10:42:13",NULL,jaalvare@davivienda.com,NULL,NULL
+844,"2025-08-26 10:42:30","2025-08-26 13:22:20",darammor@davivienda.com,NULL,NULL
+845,"2025-08-26 10:42:46","2025-08-26 10:51:43",emcardonap@davivienda.com,NULL,Usuario
+846,"2025-08-26 10:43:44","2025-08-26 10:50:47",ealzatem@davivienda.com,NULL,IA
+847,"2025-08-26 10:43:47","2025-08-26 11:09:53",jucasala@davivienda.com,NULL,NULL
+848,"2025-08-26 10:44:00","2025-08-26 11:44:14",mfcardon@davivienda.com,NULL,Usuario
+849,"2025-08-26 10:44:15","2025-08-26 10:49:20",spposada@davivienda.com,NULL,NULL
+850,"2025-08-26 10:45:34","2025-08-26 11:09:30",yessid.meza@davivienda.com,NULL,NULL
+851,"2025-08-26 10:46:26","2025-08-26 10:50:24",isarango@davivienda.com,NULL,IA
+852,"2025-08-26 10:47:09",NULL,dogomez@davivienda.com,NULL,NULL
+853,"2025-08-26 10:48:20",NULL,santiago.quiroz@davivienda.com,NULL,NULL
+854,"2025-08-26 10:48:36",NULL,decastil@davivienda.com,NULL,NULL
+855,"2025-08-26 10:49:01","2025-08-26 10:55:23",lpalomeq@davivienda.com,NULL,NULL
+856,"2025-08-26 10:49:12","2025-08-26 11:20:27",mmmontoya@davivienda.com,NULL,NULL
+857,"2025-08-26 10:49:38","2025-08-26 10:51:32",jezapata@davivienda.com,NULL,NULL
+858,"2025-08-26 10:50:05",NULL,fadlopez@davivienda.com,NULL,NULL
+859,"2025-08-26 10:50:11","2025-08-26 10:56:35",decastil@davivienda.com,NULL,NULL
+860,"2025-08-26 10:50:12","2025-08-27 13:00:20",tatiana.fernandez@davivienda.com,NULL,NULL
+861,"2025-08-26 10:50:38","2025-08-26 10:56:08",paola.rozo@davivienda.com,NULL,NULL
+862,"2025-08-26 10:51:55","2025-08-26 10:58:04",jmcastan@davivienda.com,NULL,NULL
+863,"2025-08-26 10:52:30","2025-08-26 10:54:09",fadlopez@davivienda.com,NULL,NULL
+864,"2025-08-26 10:52:32","2025-08-26 11:03:07",natalia.lopezcaicedo@davivienda.com,NULL,NULL
+865,"2025-08-26 10:53:10","2025-08-26 10:58:29",leidy.durango@davivienda.com,NULL,NULL
+866,"2025-08-26 10:53:31","2025-08-26 11:00:15",camila.santamaria@davivienda.com,NULL,NULL
+867,"2025-08-26 10:54:17",NULL,danausug@davivienda.com,NULL,NULL
+868,"2025-08-26 10:54:14","2025-08-26 11:01:35",jcueroa@davivienda.com,NULL,NULL
+869,"2025-08-26 10:54:29","2025-08-26 10:55:26",diego.montoya@davivienda.com,NULL,NULL
+870,"2025-08-26 10:55:33","2025-08-26 11:02:03",daarestr@davivienda.com,NULL,NULL
+871,"2025-08-26 10:55:49",NULL,algudelo@davivienda.com,NULL,NULL
+872,"2025-08-26 10:56:03",NULL,naarcila@davivienda.com,NULL,NULL
+873,"2025-08-26 10:56:08","2025-08-26 11:04:59",paola.rozo@davivienda.com,NULL,NULL
+874,"2025-08-26 10:56:15","2025-08-26 11:04:28",eddy.ospina@davivienda.com,NULL,NULL
+875,"2025-08-26 10:56:29","2025-08-26 11:02:19",silvia.mosquera@davivienda.com,NULL,NULL
+876,"2025-08-26 10:57:01","2025-08-26 11:20:28",paula.arboleda@davivienda.com,NULL,NULL
+877,"2025-08-26 10:57:50","2025-08-26 11:04:48",ealzatem@davivienda.com,NULL,NULL
+878,"2025-08-26 10:59:53","2025-08-26 11:00:17",amupegui@davivienda.com,NULL,NULL
+879,"2025-08-26 11:00:29","2025-08-26 11:15:19",vlmoncada@davivienda.com,NULL,NULL
+880,"2025-08-26 11:01:00","2025-08-26 11:07:39",amupegui@davivienda.com,NULL,NULL
+881,"2025-08-26 11:01:58","2025-08-26 11:09:30",mariof.granadoscanon@davivienda.com,NULL,NULL
+882,"2025-08-26 11:02:34","2025-08-26 11:10:42",feagudelor@davivienda.com,NULL,NULL
+883,"2025-08-26 11:02:35","2025-08-26 11:06:30",joigruiz@davivienda.com,NULL,NULL
+884,"2025-08-26 11:03:23","2025-08-26 11:06:43",mesuarez@davivienda.com,NULL,NULL
+885,"2025-08-26 11:03:41","2025-08-26 13:34:41",angie.otalora@davivienda.com,NULL,NULL
+886,"2025-08-26 11:04:22","2025-08-26 11:06:57",lmnaranj@davivienda.com,NULL,NULL
+887,"2025-08-26 11:07:00","2025-08-26 11:15:15",jenosori@davivienda.com,NULL,NULL
+888,"2025-08-26 11:07:00","2025-08-26 11:14:55",mesuarez@davivienda.com,NULL,NULL
+889,"2025-08-26 11:07:14","2025-08-26 11:13:09",lmnaranj@davivienda.com,NULL,NULL
+890,"2025-08-26 11:07:44","2025-08-26 11:16:31",lpospina@davivienda.com,NULL,NULL
+891,"2025-08-26 11:09:30","2025-08-26 11:10:21",yessid.meza@davivienda.com,NULL,NULL
+892,"2025-08-26 11:09:41",NULL,jfjimesc@davivienda.com,NULL,NULL
+893,"2025-08-26 11:09:53",NULL,jucasala@davivienda.com,NULL,NULL
+894,"2025-08-26 11:10:14",NULL,linafero@davivienda.com,NULL,NULL
+895,"2025-08-26 11:10:40","2025-08-26 11:18:51",yessid.meza@davivienda.com,NULL,NULL
+896,"2025-08-26 11:10:42","2025-08-26 11:18:02",feagudelor@davivienda.com,NULL,NULL
+897,"2025-08-26 11:13:30","2025-08-26 13:26:01",ciarango@davivienda.com,NULL,NULL
+898,"2025-08-26 11:13:41","2025-08-26 11:19:17",ghurtado@davivienda.com,NULL,NULL
+899,"2025-08-26 11:13:49",NULL,emmolano@davivienda.com,NULL,NULL
+900,"2025-08-26 11:13:52","2025-08-26 11:20:19",angee.moreno@davivienda.com,NULL,NULL
+901,"2025-08-26 11:14:42","2025-08-26 13:43:52",seboteroc@davivienda.com,NULL,NULL
+902,"2025-08-26 11:15:19","2025-08-26 14:56:22",vlmoncada@davivienda.com,NULL,NULL
+903,"2025-08-26 11:15:54",NULL,lina.restrepo@davivienda.com,NULL,NULL
+904,"2025-08-26 11:16:05","2025-08-26 11:22:02",amarredondo@davivienda.com,NULL,NULL
+905,"2025-08-26 11:16:17","2025-08-26 11:21:23",lilopezm@davivienda.com,NULL,NULL
+906,"2025-08-26 11:17:10",NULL,bjcubill@davivienda.com,NULL,NULL
+907,"2025-08-26 11:17:43","2025-08-26 11:22:44",lina.restrepo@davivienda.com,NULL,NULL
+908,"2025-08-26 11:18:02","2025-08-26 11:23:41",feagudelor@davivienda.com,NULL,NULL
+909,"2025-08-26 11:18:18","2025-08-26 12:05:51",jppenaf@davivienda.com,NULL,NULL
+910,"2025-08-26 11:18:58","2025-08-26 11:26:04",yessid.meza@davivienda.com,NULL,NULL
+911,"2025-08-26 11:19:21","2025-08-26 11:24:51",oalvarez@davivienda.com,NULL,NULL
+912,"2025-08-26 11:19:41","2025-08-26 11:24:46",anflorez@davivienda.com,NULL,NULL
+913,"2025-08-26 11:17:39","2025-08-26 11:24:18",claudia.rios@davivienda.com,NULL,NULL
+914,"2025-08-26 11:20:19","2025-08-26 11:25:20",angee.moreno@davivienda.com,NULL,NULL
+915,"2025-08-26 11:20:28","2025-08-26 11:26:15",paula.arboleda@davivienda.com,NULL,NULL
+916,"2025-08-26 11:20:40",NULL,algutile@davivienda.com,NULL,NULL
+917,"2025-08-26 11:20:57","2025-08-26 11:26:37",angee.moreno@davivienda.com,NULL,NULL
+918,"2025-08-26 11:21:39","2025-08-26 11:41:52",wvelasqu@davivienda.com,NULL,NULL
+919,"2025-08-26 11:21:39","2025-08-26 11:26:40",dacorpar@davivienda.com,NULL,NULL
+920,"2025-08-26 11:21:48","2025-08-26 11:52:11",juan.carrillopuche@davivienda.com,NULL,NULL
+921,"2025-08-26 11:22:08","2025-08-26 11:27:29",angee.moreno@davivienda.com,NULL,NULL
+922,"2025-08-26 11:23:35","2025-08-26 11:31:44",sxlopez@davivienda.com,NULL,NULL
+923,"2025-08-26 11:24:46","2025-08-26 11:34:20",anflorez@davivienda.com,NULL,NULL
+924,"2025-08-26 11:26:15","2025-08-26 11:33:50",papermes@davivienda.com,NULL,NULL
+925,"2025-08-26 11:27:50","2025-08-26 11:32:56",dagomezm@davivienda.com,NULL,NULL
+926,"2025-08-26 11:28:09","2025-08-26 13:48:33",jucasala@davivienda.com,NULL,NULL
+927,"2025-08-26 11:29:53","2025-08-26 11:37:35",escalald@davivienda.com,NULL,NULL
+928,"2025-08-26 11:30:04",NULL,stepfcor@davivienda.com,NULL,NULL
+929,"2025-08-26 11:41:10","2025-08-26 12:38:39",duvan.garcia@davivienda.com,NULL,NULL
+930,"2025-08-26 11:31:58","2025-08-26 11:39:35",yeferson.monsalve@davivienda.com,NULL,Usuario
+931,"2025-08-26 11:32:48","2025-08-26 11:38:41",feagudelor@davivienda.com,NULL,NULL
+932,"2025-08-26 11:33:50",NULL,papermes@davivienda.com,NULL,NULL
+933,"2025-08-26 11:34:04",NULL,jenosori@davivienda.com,NULL,NULL
+934,"2025-08-26 11:34:07","2025-08-26 11:42:08",papermes@davivienda.com,NULL,NULL
+935,"2025-08-26 11:34:27",NULL,linafero@davivienda.com,NULL,NULL
+936,"2025-08-26 11:36:11",NULL,neidya.cancelado@davivienda.com,NULL,NULL
+937,"2025-08-26 11:36:15","2025-08-26 15:32:42",maesanch@davivienda.com,NULL,NULL
+938,"2025-08-26 11:36:39",NULL,jose.marin@davivienda.com,NULL,NULL
+939,"2025-08-26 11:37:35",NULL,escalald@davivienda.com,NULL,NULL
+940,"2025-08-26 11:38:46","2025-08-26 13:11:07",jtobonv@davivienda.com,NULL,NULL
+941,"2025-08-26 11:38:59",NULL,mayra.prada@davivienda.com,NULL,NULL
+942,"2025-08-26 11:41:59",NULL,limaruiz@davivienda.com,NULL,NULL
+943,"2025-08-26 11:43:31","2025-08-26 14:47:39",arsuarez@davivienda.com,NULL,NULL
+944,"2025-08-26 11:43:42","2025-08-26 11:49:17",maribrio@davivienda.com,NULL,NULL
+945,"2025-08-26 11:44:14","2025-08-26 13:29:52",mfcardon@davivienda.com,NULL,Usuario
+946,"2025-08-26 11:48:41",NULL,dlgarzon@davivienda.com,NULL,NULL
+947,"2025-08-26 11:38:37","2025-08-26 11:40:22",lmloaiza@davivienda.com,NULL,NULL
+948,"2025-08-26 11:40:44","2025-08-26 11:41:47",lmloaiza@davivienda.com,NULL,NULL
+949,"2025-08-26 11:52:01",NULL,davsocho@davivienda.com,NULL,NULL
+950,"2025-08-26 11:52:11","2025-08-26 13:14:31",juan.carrillopuche@davivienda.com,NULL,NULL
+951,"2025-08-26 11:42:20",NULL,lmloaiza@davivienda.com,NULL,NULL
+952,"2025-08-26 11:53:50","2025-08-26 11:56:00",oalvarez@davivienda.com,NULL,NULL
+953,"2025-08-26 11:54:04","2025-08-26 12:09:47",almartin@davivienda.com,NULL,NULL
+954,"2025-08-26 11:56:32","2025-08-26 12:02:05",oalvarez@davivienda.com,NULL,NULL
+955,"2025-08-26 11:58:07","2025-08-26 12:04:57",dacastri@davivienda.com,NULL,NULL
+956,"2025-08-26 11:59:07","2025-08-26 12:31:00",jeimmy.roncancio@davivienda.com,NULL,NULL
+957,"2025-08-26 12:02:05","2025-08-26 12:26:22",oalvarez@davivienda.com,NULL,NULL
+958,"2025-08-26 12:05:48","2025-08-26 12:11:14",jarestrepos@davivienda.com,NULL,NULL
+959,"2025-08-26 12:06:12","2025-08-26 12:15:53",sharon.casas@davivienda.com,NULL,NULL
+960,"2025-08-26 12:09:50","2025-08-26 12:30:17",almartin@davivienda.com,NULL,NULL
+961,"2025-08-26 12:10:05",NULL,pdzapata@davivienda.com,NULL,NULL
+962,"2025-08-26 12:15:38","2025-08-26 12:19:20",p_dcdiaz@davivienda.com,NULL,NULL
+963,"2025-08-26 12:15:59","2025-08-26 12:22:49",sagomezr@davivienda.com,NULL,Usuario
+964,"2025-08-26 12:16:04","2025-08-26 12:21:45",judaveta@davivienda.com,NULL,NULL
+965,"2025-08-26 12:16:06","2025-08-26 12:30:29",leidy.durango@davivienda.com,NULL,NULL
+966,"2025-08-26 12:16:21","2025-08-26 12:21:46",dbeltranm@davivienda.com,NULL,NULL
+967,"2025-08-26 12:19:54","2025-08-26 12:27:12",mmmontoya@davivienda.com,NULL,NULL
+968,"2025-08-26 12:20:34","2025-08-26 12:30:45",danna.vidal@davivienda.com,NULL,NULL
+969,"2025-08-26 12:22:54","2025-08-26 12:29:34",ambarrantes@davivienda.com,NULL,NULL
+970,"2025-08-26 12:20:48","2025-08-26 12:21:55",cristian.sanchez@davivienda.com,NULL,NULL
+971,"2025-08-26 12:22:09","2025-08-26 13:21:07",jparbole@davivienda.com,NULL,NULL
+972,"2025-08-26 12:24:44","2025-08-26 12:43:44",jurodrig@davivienda.com,NULL,NULL
+973,"2025-08-26 12:26:13","2025-08-26 12:31:19",jomunoz@davivienda.com,NULL,NULL
+974,"2025-08-26 12:26:54","2025-08-26 12:37:04",jfbuiles@davivienda.com,NULL,NULL
+975,"2025-08-26 12:28:29","2025-08-26 12:44:19",sigomez@davivienda.com,NULL,NULL
+976,"2025-08-26 12:38:39","2025-08-26 13:03:40",duvan.garcia@davivienda.com,NULL,NULL
+977,"2025-08-26 12:30:30","2025-08-26 12:35:30",almartin@davivienda.com,NULL,NULL
+978,"2025-08-26 12:31:00","2025-08-26 12:37:00",jeimmy.roncancio@davivienda.com,NULL,NULL
+979,"2025-08-26 12:31:19","2025-08-26 12:36:30",sandy.gallego@davivienda.com,NULL,NULL
+980,"2025-08-26 12:32:35","2025-08-26 12:37:57",nathalia.ruiz@davivienda.com,NULL,NULL
+981,"2025-08-26 12:33:44","2025-08-26 12:42:29",leidy.durango@davivienda.com,NULL,NULL
+982,"2025-08-26 12:34:28","2025-08-26 12:39:06",lina.restrepo@davivienda.com,NULL,IA
+983,"2025-08-26 12:34:46","2025-08-26 12:39:58",ivonne.ladino@davivienda.com,NULL,IA
+984,"2025-08-26 12:35:28","2025-08-26 12:40:24",adriana.castro@davivienda.com,NULL,NULL
+985,"2025-08-26 12:36:27","2025-08-26 12:44:42",oalvarez@davivienda.com,NULL,NULL
+986,"2025-08-26 12:37:27",NULL,samejia@davivienda.com,NULL,NULL
+987,"2025-08-26 12:40:34","2025-08-26 12:40:45",lmgomez@davivienda.com,NULL,NULL
+988,"2025-08-26 12:41:22",NULL,lmgomez@davivienda.com,NULL,NULL
+989,"2025-08-26 12:40:36","2025-08-26 12:41:19",adriana.castro@davivienda.com,NULL,NULL
+990,"2025-08-26 12:42:00",NULL,lmgomez@davivienda.com,NULL,NULL
+991,"2025-08-26 12:41:17",NULL,mariof.granadoscanon@davivienda.com,NULL,NULL
+992,"2025-08-26 12:41:22","2025-08-26 12:47:12",adriana.castro@davivienda.com,NULL,NULL
+993,"2025-08-26 12:41:32","2025-08-26 16:09:51",mariof.granadoscanon@davivienda.com,NULL,NULL
+994,"2025-08-26 12:41:34",NULL,ayarias@davivienda.com,NULL,NULL
+995,"2025-08-26 12:41:51","2025-08-26 12:47:47",sxlopez@davivienda.com,NULL,NULL
+996,"2025-08-26 12:43:19","2025-08-26 12:49:09",jfbuiles@davivienda.com,NULL,NULL
+997,"2025-08-26 12:43:25","2025-08-26 15:34:03",dbeltranm@davivienda.com,NULL,NULL
+998,"2025-08-26 12:52:19","2025-08-26 13:01:11",jsescoba@davivienda.com,NULL,Usuario
+999,"2025-08-26 12:44:19",NULL,sigomez@davivienda.com,NULL,NULL
+1000,"2025-08-26 12:48:02","2025-08-26 13:07:53",lcorrear@davivienda.com,NULL,NULL

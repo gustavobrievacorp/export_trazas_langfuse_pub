@@ -1,0 +1,4 @@
+id_tbl_preguntas_encuesta_chat_ia_conecta2,pregunta,estado,tipo_pregunta,minimo,maximo,orden,id_encuesta
+1,"¿Resolví tu inquietud?",1,2,NULL,NULL,1,1
+2,"¡Califica tu satisfacción conmigo hoy!",1,3,NULL,NULL,2,1
+3,"En Logística y Soporte queremos conocer tu experiencia con la atención brindada a través de nuestro chat. De 0 a 10, donde 0 es no lo recomendaría y 10 si lo recomendaría ¿Recomendaría usted la atención de nuestro chat de expertos?",1,1,0,10,1,2

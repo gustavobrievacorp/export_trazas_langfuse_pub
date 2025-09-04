@@ -1,0 +1,24 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+xgboost
+torch
+transformers
+openai
+nltk
+spacy
+openpyxl
+sqlalchemy
+tensorflow
+google-api-python-client
+google-auth
+python-dotenv
+requests
+tenacity
+# Para wordcloud
+wordcloud
+# Para Google Generative AI
+google-generativeai
